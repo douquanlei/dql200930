@@ -1,0 +1,44 @@
+@charset "utf-8";
+/*各种格式内外边距*/
+body,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,input {
+	margin: 0;
+	padding: 0;
+}
+/*去除列表标识符*/
+ul,ol,li {
+	list-style: none;
+}
+/*超链接下划线*/
+a {
+	text-decoration: none;
+	color: #000;
+}
+/*解决img下方4px*/
+img {
+	vertical-align: middle;
+	border:none;
+}
+/*左浮*/
+.fl {
+	float: left;
+}
+/*右浮*/
+.fr {
+	float: right;
+}
+/*清除浮动的影响*/
+.clr:after{
+	content:" ";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow:hidden;
+	visibility: hidden;
+}
+/*使IE兼容h5新增标签*/
+section,article,aside,header,footer,nav,figure,main,hgroup{
+	display: block;
+}
+
+
+

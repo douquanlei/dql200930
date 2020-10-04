@@ -17,7 +17,7 @@ gulp.task("copy-html", function () {
 
 //处理图片 imagesmin  对图片再次进行压缩
 gulp.task("images", function(){
-  return gulp.src("img/*.{jpg,png}")
+  return gulp.src("img/*.{jpg,png,gif}")
   .pipe(gulp.dest("./dist/images"))
   .pipe(connect.reload());
 })
@@ -29,14 +29,7 @@ gulp.task("scripts", function(){
   .pipe(connect.reload());
 })
 
-//处理数据源json改tool
-gulp.task("data", function(){
-  // return gulp.src(["*.json", "!package.json"])
-  // .pipe(gulp.dest("dist/data"))
-  return gulp.src(["tool/*.js", "!gulpfile.js"])
-  .pipe(gulp.dest("./dist/tool"))
-  .pipe(connect.reload());
-})
+//处理数据源json
 
 //处理css样式
 const sass = require("gulp-sass");
@@ -64,15 +57,14 @@ gulp.task("sassBanner", function(){
   .pipe(connect.reload());
 })
 
-gulp.task("build", ["copy-html", "images", "scripts", "data", "sassIndex", "sassBanner"]);
+gulp.task("build", ["copy-html", "images", "scripts", "sassIndex", "sassBanner"]);
 
 
 //编写监听
 gulp.task("watch", function(){
   gulp.watch("html/*.html", ["copy-html"]);
-  gulp.watch("img/*.{jpg,png}", ["images"]);
+  gulp.watch("img/*.{jpg,png,gif}", ["images"]);
   gulp.watch(["js/*.js", "!gulpfile.js"], ['scripts']);
-  gulp.watch(["tool/*.js", "!package.json"], ['data']);
   gulp.watch("./scss/index.scss", ["sassIndex"]);
   gulp.watch("./scss/banner.scss", ['sassBanner']);
 })

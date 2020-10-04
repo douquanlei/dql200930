@@ -1,0 +1,20 @@
+html,body{
+  min-width: 1200px;
+}
+.AdvertisingHead{
+  width: 100%;
+  position: relative;
+  img{
+    width: 100%;
+    margin: auto;
+  }
+  .AdvertisingHeadSwitch{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: url(../images\close_top.2f74c796.png) no-repeat;
+  }
+}

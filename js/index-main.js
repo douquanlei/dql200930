@@ -2,11 +2,11 @@ console.log("加载成功");
 //一个.html页面独享一个js，配置要引入的js文件
 require.config({
   paths: {
-    "jquery": "../tool/jquery-1.11.3",
-    "jquery-cookie": "../tool/jquery.cookie",
-    "parabola": "../tool/parabola",
+    "jquery": "../js/jquery-1.11.3",
+    "jquery-cookie": "../js/jquery.cookie",
+    "parabola": "../js/parabola",
     "index": "index",
-    "banner": "../tool/banner"
+    "banner": "../js/banner"
   },
   shim: {
     //设置依赖关系
