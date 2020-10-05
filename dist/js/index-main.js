@@ -5,7 +5,7 @@ require.config({
     "jquery": "../js/jquery-1.11.3",
     "jquery-cookie": "../js/jquery.cookie",
     "parabola": "../js/parabola",
-    "index": "index",
+    "index": "../js/index",
     "banner": "../js/banner"
   },
   shim: {

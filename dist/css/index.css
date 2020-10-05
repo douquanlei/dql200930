@@ -1,8 +1,10 @@
+@charset "UTF-8";
 .ce {
   border: 1px solid #000; }
 
 html, body {
-  min-width: 1200px; }
+  min-width: 1200px;
+  font-family: Microsoft YaHei,微软雅黑,Arail; }
 
 .AdvertisingHead {
   width: 100%;
@@ -124,16 +126,63 @@ html, body {
   margin: auto; }
   .headnav a {
     display: inline-block;
-    border: 1px solid #000;
-    margin-right: 30px;
+    margin-right: 25px;
     font-weight: 700;
-    line-height: 40px; }
-  .headnav :nth-child(1) {
-    width: 200px;
+    line-height: 50px; }
+  .headnav a:nth-of-type(1) {
+    width: 220px;
     background: #0093E6;
-    color: #F2F2F2; }
-    .headnav :nth-child(1) b {
+    color: #F2F2F2;
+    padding-left: 20px; }
+    .headnav a:nth-of-type(1) b {
+      padding: 0;
       display: inline-block;
       width: 20px;
       height: 20px;
+      vertical-align: middle;
       background: url(../images/catagory_icon.73d924a3.png) no-repeat; }
+  .headnav a:nth-of-type(4), .headnav a:nth-of-type(5), .headnav a:nth-of-type(6) {
+    position: relative; }
+    .headnav a:nth-of-type(4) b, .headnav a:nth-of-type(5) b, .headnav a:nth-of-type(6) b {
+      width: 30px;
+      height: 19px;
+      left: 20px;
+      top: -10px;
+      position: absolute;
+      background: url(../images/index_icon.1b6a881a.png) no-repeat -123px 0; }
+  .headnav a:nth-of-type(6) {
+    position: relative; }
+    .headnav a:nth-of-type(6) b {
+      background: url(../images/index_icon.1b6a881a.png) no-repeat -165px 0; }
+
+.main {
+  border-top: 3px solid #0093E6;
+  background: #F5F5F5; }
+  .main .area {
+    width: 1200px;
+    margin: auto; }
+    .main .area .sidebar {
+      width: 240px;
+      height: 800px; }
+      .main .area .sidebar .sidebartop {
+        width: 100%;
+        background: #0FA0EC;
+        padding: 15px 0; }
+        .main .area .sidebar .sidebartop a {
+          color: #dedede;
+          display: block;
+          width: 100%;
+          height: 38px; }
+          .main .area .sidebar .sidebartop a b {
+            width: 22px;
+            height: 22px;
+            display: inline-block;
+            border: 1px solid #000; }
+        .main .area .sidebar .sidebartop :nth-of-type(1) b {
+          width: 50px; }
+    .main .area .content {
+      width: 900px;
+      height: 800px; }
+    .main .area .choiceness {
+      width: 100%;
+      height: 340px; }
