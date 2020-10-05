@@ -75,3 +75,98 @@ html,body{
     }
   }
 }
+.headloge{
+  width: 1200px;
+  margin: auto;
+  height: 90px ;
+  padding: 7px 0 6px ;
+  border-top: 1px solid #dedede;
+  .headlogeleft{
+    width: 447px;
+    height: 90px;
+    background: url(../images/lcsc_logo_new.743e70f8.png) no-repeat;
+  }
+  .headlogeright{
+    width: 148px;
+    padding-top: 9px;
+    a{
+      display: block;
+      position: relative;
+      text-align: center;
+      .cart-icon {
+        display: inline-block;
+        margin-right: 10px;
+        width: 36px;
+        height: 34px;
+        vertical-align: middle;
+        background: url(../images/cart_new.83806844.png) no-repeat 0 0;
+      }
+      .cart-icon2 {
+        position: absolute;
+        top: -4px;
+        left: 62px;
+        display: inline-block;
+        margin-left: 10px;
+        width: 28px;
+        height: 16px;
+        line-height: 16px;
+        vertical-align: middle;
+        text-align: center;
+        background: url(../images/cart_bg.462988d9.png) no-repeat;
+        color: #fff;
+      }
+    }
+  }
+  .headlogecentre{
+    width: 500px;
+    font-size: 12px;
+    form{
+      color: #444;
+      input{
+        float: left;
+        width: 80%;
+        height: 38px;
+        line-height: 38px;
+        text-indent: 8px;
+        border: 2px solid #0094e7;
+        border-radius: 3px 0 0 3px;
+        outline: none;
+      }
+      button{
+        width: 43px;
+        height: 42px;
+        line-height: 40px;
+        text-align: center;
+        color: #fff;
+        font-size: 16px;
+        border: 2px solid #0094e7;
+        border-radius: 0 3px 3px 0;
+        background: #0094e7 url(../images/index_icon.1b6a881a.png) no-repeat -76px 11px;
+      }
+      
+    }
+  }
+}
+.headnav{
+  width: 1200px;
+  margin: auto;
+  a{
+    display: inline-block;
+    border: 1px solid #000;
+    margin-right:30px ;
+    font-weight: 700;
+    line-height: 40px;
+  }
+  :nth-child(1){
+    width: 200px;
+    background: #0093E6;
+    color: #F2F2F2;
+    b{
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      
+      background: url(../images/catagory_icon.73d924a3.png) no-repeat;
+    }
+  }
+}
