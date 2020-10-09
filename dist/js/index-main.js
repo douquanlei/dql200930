@@ -7,6 +7,7 @@ require.config({
     "parabola": "../js/parabola",
     "index": "../js/index",
     "banner": "../js/banner"
+    
   },
   shim: {
     //设置依赖关系

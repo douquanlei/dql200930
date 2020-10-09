@@ -30,7 +30,11 @@ gulp.task("scripts", function(){
 })
 
 //处理数据源json
-
+gulp.task("data", function(){
+  return gulp.src(["json/*.json", "!package.json"])
+  .pipe(gulp.dest("./dist/json"))
+  .pipe(connect.reload());
+})
 //处理css样式
 const sass = require("gulp-sass");
 sass.compiler = require('node-sass');
@@ -57,7 +61,7 @@ gulp.task("sassBanner", function(){
   .pipe(connect.reload());
 })
 
-gulp.task("build", ["copy-html", "images", "scripts", "sassIndex", "sassBanner"]);
+gulp.task("build", ["copy-html", "images", "scripts","data", "sassIndex", "sassBanner"]);
 
 
 //编写监听
@@ -65,6 +69,7 @@ gulp.task("watch", function(){
   gulp.watch("html/*.html", ["copy-html"]);
   gulp.watch("img/*.{jpg,png,gif}", ["images"]);
   gulp.watch(["js/*.js", "!gulpfile.js"], ['scripts']);
+  gulp.watch(["json/*.json", "!package.json"], ['data']);
   gulp.watch("./scss/index.scss", ["sassIndex"]);
   gulp.watch("./scss/banner.scss", ['sassBanner']);
 })
