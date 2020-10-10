@@ -6,7 +6,8 @@ require.config({
     "jquery-cookie": "../js/jquery.cookie",
     "parabola": "../js/parabola",
     "index": "../js/index",
-    "banner": "../js/banner"
+    "banner": "../js/banner",
+    "products": "../js/products"
     
   },
   shim: {
@@ -20,7 +21,7 @@ require.config({
 })
 
 
-require(["index", "banner"], function(index, banner){
+require(["index", "banner",'products'], function(index, banner,products){
  
 
   //轮播图可以实现

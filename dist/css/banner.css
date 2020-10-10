@@ -38,3 +38,75 @@ img {
 /*使IE兼容h5新增标签*/
 section, article, aside, header, footer, nav, figure, main, hgroup {
   display: block; }
+
+li {
+  list-style: none; }
+
+img {
+  border: none; }
+
+.play {
+  overflow: hidden;
+  width: 690px;
+  height: 370px;
+  position: relative;
+  margin: 0 auto 0; }
+  .play ol {
+    position: absolute;
+    right: 250px;
+    bottom: 15px;
+    z-index: 2; }
+  .play ol li {
+    position: relative;
+    margin-right: 20px;
+    display: inline-block;
+    cursor: pointer;
+    background: #b3b3b3;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    opacity: 0.5; }
+  .play .active {
+    bottom: -2px;
+    font-weight: bold;
+    background: transparent;
+    border: 2px solid #fff;
+    opacity: 1;
+    position: relative; }
+  .play ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex; }
+  .play ul li {
+    width: 690px;
+    height: 370px;
+    float: left; }
+  .play ul img {
+    float: left;
+    width: 690px;
+    height: 370px; }
+  .play .leftRightTabs {
+    z-index: 2;
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+  .play .leftRightTabs a {
+    width: 30px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(250, 250, 250, 0.3);
+    background-color: rgba(0, 0, 0, 0.3); }
+  .play .leftRightTabs a:hover {
+    background-color: rgba(0, 0, 0, 0.5); }

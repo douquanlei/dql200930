@@ -7,6 +7,73 @@ html, body {
   font-family: Microsoft YaHei,微软雅黑,Arail;
   font-size: 14px; }
 
+.emerging {
+  background: #fff;
+  cursor: pointer;
+  position: fixed;
+  z-index: 40;
+  bottom: 50px;
+  right: 0;
+  width: 60px; }
+  .emerging .emerging1, .emerging .emerging8 {
+    height: 40px;
+    width: 60px;
+    border: 1px solid #cdcece; }
+  .emerging .emerging2, .emerging .emerging3, .emerging .emerging4, .emerging .emerging5, .emerging .emerging6, .emerging .emerging7 {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #cdcece;
+    text-align: center;
+    padding: 10px; }
+  .emerging .emerging1 {
+    line-height: 40px;
+    text-align: center; }
+  .emerging .emerging2 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px -190px; }
+    .emerging .emerging2 div {
+      display: none;
+      border: 10px solid #fff;
+      width: 150px;
+      height: 30px;
+      position: absolute;
+      right: 60px;
+      bottom: 280px;
+      padding-top: 120px;
+      background: #fff url(../images/righ_utils_icon_new.ba40447f.png) no-repeat -30px -120px; }
+  .emerging .emerging3 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px -40px; }
+    .emerging .emerging3 div {
+      cursor: pointer;
+      display: none;
+      border: 10px solid #fff;
+      width: 150px;
+      height: 200px;
+      position: absolute;
+      right: 60px;
+      bottom: 150px;
+      padding-top: 120px;
+      background: #fff url(../images/20201010204302.png) no-repeat; }
+  .emerging .emerging4 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px 10px; }
+  .emerging .emerging5 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px -90px; }
+  .emerging .emerging6 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px -140px; }
+  .emerging .emerging7 {
+    background: url(../images/QR.af464d3e.png) no-repeat 15px; }
+    .emerging .emerging7 div {
+      display: none;
+      border: 10px solid #fff;
+      width: 150px;
+      height: 30px;
+      position: absolute;
+      right: 60px;
+      bottom: 0px;
+      padding-top: 120px;
+      background: #fff url(../images/righ_utils_icon_new.ba40447f.png) no-repeat -30px -120px; }
+  .emerging .emerging8 {
+    background: url(../images/righ_utils_icon_new.ba40447f.png) no-repeat 15px -245px; }
+
 .AdvertisingHead {
   width: 100%;
   position: relative;
@@ -92,15 +159,24 @@ html, body {
         .headhead .headTypeArea .headright .headlogin :nth-child(2) {
           color: #666; }
 
+.headloge1 {
+  transition: all 1s;
+  width: 100%;
+  background: #FFFFFF;
+  z-index: 10;
+  position: relative; }
+
 .headloge {
+  background: #FFFFFF;
   width: 1200px;
   margin: auto;
-  height: 90px;
+  height: 70px;
   padding: 7px 0 6px;
   border-top: 1px solid #dedede; }
   .headloge .headlogeleft {
+    background: #FFFFFF;
     width: 447px;
-    height: 90px;
+    height: 70px;
     background: url(../images/lcsc_logo_new.743e70f8.png) no-repeat;
     cursor: pointer; }
   .headloge .headlogeright {
@@ -180,6 +256,7 @@ html, body {
   .headnav a:nth-of-type(4), .headnav a:nth-of-type(5), .headnav a:nth-of-type(6) {
     position: relative; }
     .headnav a:nth-of-type(4) b, .headnav a:nth-of-type(5) b, .headnav a:nth-of-type(6) b {
+      z-index: 21;
       width: 30px;
       height: 19px;
       left: 20px;
@@ -420,6 +497,235 @@ html, body {
           .main .area .content .announcement .announcementimg :nth-child(4) {
             border-left: 1px solid #F5F5F5;
             border-top: 1px solid #F5F5F5; }
+    .main .area .sash .sash1, .main .area .sash .sash3 {
+      margin-right: 15px; }
+    .main .area .sash .sash1, .main .area .sash .sash2, .main .area .sash .sash3, .main .area .sash .sash4 {
+      width: 455px;
+      height: 165px;
+      box-sizing: border-box;
+      float: left;
+      position: relative;
+      margin-top: 15px;
+      margin-left: 15px;
+      margin-bottom: 15px;
+      background: #fff;
+      padding: 10px; }
+      .main .area .sash .sash1 .sash1top, .main .area .sash .sash2 .sash1top, .main .area .sash .sash3 .sash1top, .main .area .sash .sash4 .sash1top {
+        font-size: 18px;
+        color: #0FA0EC;
+        font-weight: 700; }
+        .main .area .sash .sash1 .sash1top span, .main .area .sash .sash2 .sash1top span, .main .area .sash .sash3 .sash1top span, .main .area .sash .sash4 .sash1top span {
+          font-size: 14px;
+          float: right;
+          font-weight: 300;
+          color: #666; }
+      .main .area .sash .sash1 .sash1tab, .main .area .sash .sash2 .sash1tab, .main .area .sash .sash3 .sash1tab, .main .area .sash .sash4 .sash1tab {
+        overflow: hidden;
+        height: 250px;
+        position: relative;
+        display: flex; }
+        .main .area .sash .sash1 .sash1tab .sash1tab1, .main .area .sash .sash2 .sash1tab .sash1tab1, .main .area .sash .sash3 .sash1tab .sash1tab1, .main .area .sash .sash4 .sash1tab .sash1tab1 {
+          cursor: pointer;
+          transition: all 1s;
+          position: absolute;
+          display: flex;
+          left: 0px; }
+          .main .area .sash .sash1 .sash1tab .sash1tab1 img, .main .area .sash .sash2 .sash1tab .sash1tab1 img, .main .area .sash .sash3 .sash1tab .sash1tab1 img, .main .area .sash .sash4 .sash1tab .sash1tab1 img {
+            width: 150px;
+            height: 100px; }
+          .main .area .sash .sash1 .sash1tab .sash1tab1 .sash1tab2, .main .area .sash .sash2 .sash1tab .sash1tab1 .sash1tab2, .main .area .sash .sash3 .sash1tab .sash1tab1 .sash1tab2, .main .area .sash .sash4 .sash1tab .sash1tab1 .sash1tab2 {
+            width: 255px;
+            margin: 15px;
+            font-weight: 700;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis; }
+            .main .area .sash .sash1 .sash1tab .sash1tab1 .sash1tab2 p, .main .area .sash .sash2 .sash1tab .sash1tab1 .sash1tab2 p, .main .area .sash .sash3 .sash1tab .sash1tab1 .sash1tab2 p, .main .area .sash .sash4 .sash1tab .sash1tab1 .sash1tab2 p {
+              font-weight: 500;
+              color: #666;
+              margin-top: 10px;
+              white-space: normal; }
+        .main .area .sash .sash1 .sash1tab .sash1tab1:hover .sash1tab2, .main .area .sash .sash2 .sash1tab .sash1tab1:hover .sash1tab2, .main .area .sash .sash3 .sash1tab .sash1tab1:hover .sash1tab2, .main .area .sash .sash4 .sash1tab .sash1tab1:hover .sash1tab2 {
+          color: #0093E6; }
+        .main .area .sash .sash1 .sash1tab .sash1tab1tab, .main .area .sash .sash2 .sash1tab .sash1tab1tab, .main .area .sash .sash3 .sash1tab .sash1tab1tab, .main .area .sash .sash4 .sash1tab .sash1tab1tab {
+          position: absolute;
+          left: 145px;
+          top: 110px; }
+          .main .area .sash .sash1 .sash1tab .sash1tab1tab span, .main .area .sash .sash2 .sash1tab .sash1tab1tab span, .main .area .sash .sash3 .sash1tab .sash1tab1tab span, .main .area .sash .sash4 .sash1tab .sash1tab1tab span {
+            display: inline-block;
+            width: 15px;
+            height: 5px;
+            margin-right: 20px;
+            background: #a0a1a1;
+            border-radius: 2px; }
+          .main .area .sash .sash1 .sash1tab .sash1tab1tab .sash1tab1tabspan, .main .area .sash .sash2 .sash1tab .sash1tab1tab .sash1tab1tabspan, .main .area .sash .sash3 .sash1tab .sash1tab1tab .sash1tab1tabspan, .main .area .sash .sash4 .sash1tab .sash1tab1tab .sash1tab1tabspan {
+            background: #0FA0EC; }
     .main .area .choiceness {
-      width: 100%;
-      height: 340px; }
+      position: relative;
+      overflow: hidden;
+      width: 1180px;
+      height: 320px;
+      padding: 10px;
+      background: #fff; }
+      .main .area .choiceness .choicenesstop {
+        line-height: 50px;
+        font-size: 16px;
+        font-weight: 700;
+        color: #0FA0EC; }
+        .main .area .choiceness .choicenesstop span {
+          display: inline-block;
+          font-size: 12px;
+          font-weight: 500;
+          color: #666666;
+          margin-left: 20px; }
+      .main .area .choiceness .choicenesstab {
+        transition: all 1s;
+        position: absolute;
+        width: 2400px;
+        left: 0px; }
+        .main .area .choiceness .choicenesstab ul li {
+          cursor: pointer;
+          display: flex;
+          width: 288px;
+          height: 109px;
+          float: left;
+          margin-left: 12px;
+          margin-top: 5px;
+          font-size: 0; }
+          .main .area .choiceness .choicenesstab ul li img {
+            width: 50px;
+            height: 50px;
+            margin: 10px; }
+          .main .area .choiceness .choicenesstab ul li div {
+            font-size: 16px;
+            width: 200px; }
+            .main .area .choiceness .choicenesstab ul li div .choicenesstab1 {
+              font-weight: 700; }
+            .main .area .choiceness .choicenesstab ul li div p {
+              white-space: nowrap;
+              overflow: hidden;
+              text-overflow: ellipsis;
+              color: #a0a1a1; }
+            .main .area .choiceness .choicenesstab ul li div span {
+              color: #FF7836; }
+        .main .area .choiceness .choicenesstab ul li:hover {
+          border: none;
+          border-radius: 2px;
+          background: #fff;
+          box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+          position: relative;
+          top: -1px; }
+        .main .area .choiceness .choicenesstab ul li:hover div {
+          color: #0093E6; }
+      .main .area .choiceness .choicenessbut {
+        position: absolute;
+        top: 90%;
+        left: 45%; }
+        .main .area .choiceness .choicenessbut span {
+          width: 20px;
+          height: 10px;
+          border-radius: 5px;
+          display: inline-block;
+          background: #a0a1a1;
+          margin-left: 30px; }
+        .main .area .choiceness .choicenessbut .choicenessbuttab {
+          background: #0093E6; }
+
+.bottom1 {
+  height: 156px;
+  width: 100%;
+  background: #E3E3E3; }
+  .bottom1 .bottom11 {
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    padding-top: 30px;
+    justify-content: space-around; }
+    .bottom1 .bottom11 .bottom12 {
+      width: 200px;
+      height: 100px;
+      display: flex;
+      justify-content: center; }
+      .bottom1 .bottom11 .bottom12 .bottom13 {
+        width: 50px;
+        height: 50px;
+        background: #0093E6;
+        color: #F2F2F2;
+        text-align: center;
+        font-size: 20px;
+        line-height: 50px;
+        border-radius: 50%;
+        margin-top: 20px; }
+      .bottom1 .bottom11 .bottom12 .bottom14 {
+        font-size: 20px;
+        margin-top: 10px;
+        color: #545454; }
+        .bottom1 .bottom11 .bottom12 .bottom14 p {
+          font-size: 12px;
+          color: #A39AAC; }
+        .bottom1 .bottom11 .bottom12 .bottom14 :nth-child(1) {
+          margin-top: 20px; }
+
+.bottom2 {
+  height: 240px;
+  width: 100%;
+  background: #FFFFFF; }
+  .bottom2 .foot {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+    background: #fff; }
+    .bottom2 .foot dl {
+      box-sizing: border-box;
+      float: left;
+      margin-top: 28px;
+      padding-left: 7%;
+      width: 20%;
+      text-align: left; }
+      .bottom2 .foot dl dt {
+        margin-bottom: 8px;
+        height: 30px;
+        font-size: 14px;
+        color: #444; }
+      .bottom2 .foot dl dd {
+        line-height: 28px;
+        margin-left: 0;
+        font-size: 12px; }
+
+.bottom3 {
+  height: 100px;
+  width: 100%;
+  background: #F5F5F5; }
+
+.bottom4 {
+  height: 50px;
+  width: 100%;
+  background: #5E5E5E; }
+  .bottom4 ul {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around; }
+    .bottom4 ul li {
+      font-size: 12px;
+      color: #F2F2F2;
+      margin-top: 15px;
+      float: left;
+      display: flex; }
+      .bottom4 ul li .cprt-splitline {
+        margin-left: 30px; }
+      .bottom4 ul li a {
+        color: #F2F2F2; }
+
+.bottom5 {
+  height: 180px;
+  width: 100%;
+  background: #FFFFFF; }
+  .bottom5 div {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px; }
+  .bottom5 .entry-list {
+    line-height: 40px; }

@@ -17,7 +17,7 @@ gulp.task("copy-html", function () {
 
 //处理图片 imagesmin  对图片再次进行压缩
 gulp.task("images", function(){
-  return gulp.src("img/*.{jpg,png,gif}")
+  return gulp.src("img/*.{jpg,png,gif,svg}")
   .pipe(gulp.dest("./dist/images"))
   .pipe(connect.reload());
 })
@@ -67,7 +67,7 @@ gulp.task("build", ["copy-html", "images", "scripts","data", "sassIndex", "sassB
 //编写监听
 gulp.task("watch", function(){
   gulp.watch("html/*.html", ["copy-html"]);
-  gulp.watch("img/*.{jpg,png,gif}", ["images"]);
+  gulp.watch("img/*.{jpg,png,gif,svg}", ["images"]);
   gulp.watch(["js/*.js", "!gulpfile.js"], ['scripts']);
   gulp.watch(["json/*.json", "!package.json"], ['data']);
   gulp.watch("./scss/index.scss", ["sassIndex"]);
