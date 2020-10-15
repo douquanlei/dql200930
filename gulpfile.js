@@ -60,8 +60,44 @@ gulp.task("sassBanner", function(){
   .pipe(gulp.dest("./dist/css"))
   .pipe(connect.reload());
 })
+gulp.task("sassList", function(){
+  return gulp.src("./scss/list.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("list.min.css"))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(connect.reload());
+})
+gulp.task("sassDetails", function(){
+  return gulp.src("./scss/details.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("details.min.css"))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(connect.reload());
+})
+gulp.task("sassGoodslist", function(){
+  return gulp.src("./scss/goodslist.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("goodslist.min.css"))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(connect.reload());
+})
+gulp.task("sassSettlement", function(){
+  return gulp.src("./scss/settlement.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("settlement.min.css"))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(connect.reload());
+})
 
-gulp.task("build", ["copy-html", "images", "scripts","data", "sassIndex", "sassBanner"]);
+gulp.task("build", ["sassSettlement","sassGoodslist","sassList","sassDetails","copy-html", "images", "scripts","data", "sassIndex", "sassBanner"]);
 
 
 //编写监听
@@ -72,6 +108,10 @@ gulp.task("watch", function(){
   gulp.watch(["json/*.json", "!package.json"], ['data']);
   gulp.watch("./scss/index.scss", ["sassIndex"]);
   gulp.watch("./scss/banner.scss", ['sassBanner']);
+  gulp.watch("./scss/list.scss", ['sassList']);
+  gulp.watch("./scss/details.scss", ['sassDetails']);
+  gulp.watch("./scss/goodslist.scss", ['sassGoodslist']);
+  gulp.watch("./scss/settlement.scss", ['sassSettlement']);
 })
 
 

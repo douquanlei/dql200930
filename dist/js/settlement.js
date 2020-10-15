@@ -28,77 +28,20 @@ define(["jquery"], function($){
         oHeadrightregister.style.borderLeft='none'
         oHeadrightregisterD.style. height='0px'
     }
-    ///
-    // var oAnnouncementtabcut=document.querySelectorAll('.announcementtabcut1')
-    // var oAnnouncementdetails=document.querySelectorAll('.announcementdetails')
-    // oAnnouncementtabcut.forEach(function(item,i,arr){
-    //     item.onclick=function(){
-    //         for(var k=0;k<arr.length;k++){
-    //             arr[k].className='announcementtabcut1 fl'
-    //         }
-    //         item.className='announcementtabcut1 fl announcementtabcut2'
-    //         oAnnouncementdetails[i].style.display='block'
-    //         oAnnouncementdetails[1-i].style.display='none'
-    //     }
-    // })
-    // var oSash1tab1tab=document.querySelectorAll('.sash1 .sash1tab1tab span')
-    // var oSash1tab1=document.querySelector('.sash1 .sash1tab1')
-    // oSash1tab1tab.forEach(function(item,i,arr){
-    //     item.onmouseover=function(){
-    //         for(var k=0;k<arr.length;k++){
-    //             arr[k].className=''
-    //         }
-    //         item.className='sash1tab1tabspan'
-    //         oSash1tab1.style.left=`-${i*430}px`
-    //     }
-    // })
-    // var oSash1tab1tab2=document.querySelectorAll('.sash2 .sash1tab1tab span')
-    // var oSash1tab12=document.querySelector('.sash2 .sash1tab1')
-    // oSash1tab1tab2.forEach(function(item,i,arr){
-    //     item.onmouseover=function(){
-    //         for(var k=0;k<arr.length;k++){
-    //             arr[k].className=''
-    //         }
-    //         item.className='sash1tab1tabspan'
-    //         oSash1tab12.style.left=`-${i*430}px`
-    //     }
-    // })
-    // var oSash1tab1tab3=document.querySelectorAll('.sash3 .sash1tab1tab span')
-    // var oSash1tab13=document.querySelector('.sash3 .sash1tab1')
-    // oSash1tab1tab3.forEach(function(item,i,arr){
-    //     item.onmouseover=function(){
-    //         for(var k=0;k<arr.length;k++){
-    //             arr[k].className=''
-    //         }
-    //         item.className='sash1tab1tabspan'
-    //         oSash1tab13.style.left=`-${i*430}px`
-    //     }
-    // })
-    // var oChoicenessbut=document.querySelectorAll('.choicenessbut span')
-    // var oChoicenesstab=document.querySelector('.choicenesstab')
-    // oChoicenessbut.forEach(function(item,i,arr){
-    //     item.onmouseover=function(){
-    //         for(var k=0;k<arr.length;k++){
-    //             arr[k].className=''
-    //         }
-    //         item.className='choicenessbuttab'
-    //         oChoicenesstab.style.left=`-${i*1200}px`
-    //     }
-    // })
-    ///////////////////////////////
-    var oHeadloge = document.querySelector('.headloge1');
-    window.onscroll = function(){
-        var distance = document.body.scrollTop||document.documentElement.scrollTop;
-        var gun=0;
-        if(distance>=200){
-            oHeadloge.style.position='fixed'
-            oHeadloge.style.top = `${0}px`
-        }else{
-            oHeadloge.style.position='relative'
-            oHeadloge.style.top = `${0}px`
+    
+    // var oHeadloge = document.querySelector('.headloge1');
+    // window.onscroll = function(){
+    //     var distance = document.body.scrollTop||document.documentElement.scrollTop;
+    //     var gun=0;
+    //     if(distance>=200){
+    //         oHeadloge.style.position='fixed'
+    //         oHeadloge.style.top = `${0}px`
+    //     }else{
+    //         oHeadloge.style.position='relative'
+    //         oHeadloge.style.top = `${0}px`
             
-        }
-    }
+    //     }
+    // }
     $(".emerging8").click(function(){
         var timer1 = setInterval(function(){
           document.documentElement.scrollTop -= 16
@@ -200,8 +143,4 @@ define(["jquery"], function($){
          oEm9.style.display='none'
     })
     })
-    var tiaozhuan=document.querySelector(".main-list")
-    tiaozhuan.onclick=function(){
-        window.location.href='../goodslist.html'
-    }
     

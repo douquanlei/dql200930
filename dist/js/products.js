@@ -2,7 +2,7 @@ define(["jquery"], function($){
         //通过ajax下载数据
         console.log(111111)
         $.ajax({
-          url: "../json/products.json",
+          url: "../json/index.json",
           success: function(result){
             // console.log(result);
             var recommendList = result.recommendList;

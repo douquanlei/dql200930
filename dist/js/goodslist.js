@@ -200,8 +200,12 @@ define(["jquery"], function($){
          oEm9.style.display='none'
     })
     })
-    var tiaozhuan=document.querySelector(".main-list")
+    var tiaozhuan=document.querySelector(".maingoods1")
     tiaozhuan.onclick=function(){
-        window.location.href='../goodslist.html'
+        window.location.href='../index.html'
+    }
+    var tiaozhuan=document.querySelector(".maingoods2")
+    tiaozhuan.onclick=function(){
+        window.location.href='../list.html'
     }
     

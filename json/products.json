@@ -1,677 +1,1685 @@
 {
-    "recommendList": [
+  "shangping": [
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/312.html",
+      "fenleishuliang": "38450",
+      "fenleimingcheng": "电容",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "牛角型电解电容器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11182.html",
+          "shangpingshuliang": "35"
+        },
+        {
+          "shangpingmingcheng": "贴片电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/313.html",
+          "shangpingshuliang": "17027"
+        },
+        {
+          "shangpingmingcheng": "钽电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/314.html",
+          "shangpingshuliang": "1652"
+        },
+        {
+          "shangpingmingcheng": "贴片型铝电解电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/418.html",
+          "shangpingshuliang": "4526"
+        },
+        {
+          "shangpingmingcheng": "引线型铝电解电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/315.html",
+          "shangpingshuliang": "8245"
+        },
+        {
+          "shangpingmingcheng": "螺栓型铝电解电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11164.html",
+          "shangpingshuliang": "33"
+        },
+        {
+          "shangpingmingcheng": "直插瓷片电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/430.html",
+          "shangpingshuliang": "1065"
+        },
+        {
+          "shangpingmingcheng": "直插独石电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/431.html",
+          "shangpingshuliang": "236"
+        },
+        {
+          "shangpingmingcheng": "安规电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/477.html",
+          "shangpingshuliang": "1284"
+        },
+        {
+          "shangpingmingcheng": "可调电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/552.html",
+          "shangpingshuliang": "13"
+        },
+        {
+          "shangpingmingcheng": "CBB电容(聚丙烯)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/554.html",
+          "shangpingshuliang": "2137"
+        },
+        {
+          "shangpingmingcheng": "校正电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/596.html",
+          "shangpingshuliang": "88"
+        },
+        {
+          "shangpingmingcheng": "固态电解电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/927.html",
+          "shangpingshuliang": "1046"
+        },
+        {
+          "shangpingmingcheng": "超级电容器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/970.html",
+          "shangpingshuliang": "368"
+        },
+        {
+          "shangpingmingcheng": "CL21电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/976.html",
+          "shangpingshuliang": "21"
+        },
+        {
+          "shangpingmingcheng": "聚酯薄膜电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/982.html",
+          "shangpingshuliang": "641"
+        },
+        {
+          "shangpingmingcheng": "氧化铌电容",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11023.html",
+          "shangpingshuliang": "4"
+        },
+        {
+          "shangpingmingcheng": "电容器网络，阵列",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11087.html",
+          "shangpingshuliang": "2"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/308.html",
+      "fenleishuliang": "72800",
+      "fenleimingcheng": "电阻",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "贴片电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/439.html",
+          "shangpingshuliang": "52346"
+        },
+        {
+          "shangpingmingcheng": "贴片高精密、低温漂电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/911.html",
+          "shangpingshuliang": "5249"
+        },
+        {
+          "shangpingmingcheng": "高功率贴片电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11127.html",
+          "shangpingshuliang": "505"
+        },
+        {
+          "shangpingmingcheng": "贴片低阻值采样电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/909.html",
+          "shangpingshuliang": "2719"
+        },
+        {
+          "shangpingmingcheng": "直插低阻值采样电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/936.html",
+          "shangpingshuliang": "99"
+        },
+        {
+          "shangpingmingcheng": "压敏电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/482.html",
+          "shangpingshuliang": "2223"
+        },
+        {
+          "shangpingmingcheng": "网络排阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/311.html",
+          "shangpingshuliang": "1166"
+        },
+        {
+          "shangpingmingcheng": "MELF 电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/984.html",
+          "shangpingshuliang": "705"
+        },
+        {
+          "shangpingmingcheng": "NTC 热敏电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/435.html",
+          "shangpingshuliang": "1159"
+        },
+        {
+          "shangpingmingcheng": "PTC 热敏电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/541.html",
+          "shangpingshuliang": "126"
+        },
+        {
+          "shangpingmingcheng": "金属膜电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/310.html",
+          "shangpingshuliang": "2815"
+        },
+        {
+          "shangpingmingcheng": "金属氧化膜电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/889.html",
+          "shangpingshuliang": "583"
+        },
+        {
+          "shangpingmingcheng": "碳膜电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/479.html",
+          "shangpingshuliang": "820"
+        },
+        {
+          "shangpingmingcheng": "精密可调电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/520.html",
+          "shangpingshuliang": "493"
+        },
+        {
+          "shangpingmingcheng": "可调电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/521.html",
+          "shangpingshuliang": "81"
+        },
+        {
+          "shangpingmingcheng": "电位器、其他可调电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/556.html",
+          "shangpingshuliang": "368"
+        },
+        {
+          "shangpingmingcheng": "绕线电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/859.html",
+          "shangpingshuliang": "590"
+        },
+        {
+          "shangpingmingcheng": "保险电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/857.html",
+          "shangpingshuliang": "128"
+        },
+        {
+          "shangpingmingcheng": "TO封装平面功率电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11130.html",
+          "shangpingshuliang": "94"
+        },
+        {
+          "shangpingmingcheng": "高压电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11020.html",
+          "shangpingshuliang": "56"
+        },
+        {
+          "shangpingmingcheng": "光敏电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/551.html",
+          "shangpingshuliang": "91"
+        },
+        {
+          "shangpingmingcheng": "金属玻璃釉电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/932.html",
+          "shangpingshuliang": "58"
+        },
+        {
+          "shangpingmingcheng": "水泥电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/437.html",
+          "shangpingshuliang": "100"
+        },
+        {
+          "shangpingmingcheng": "LED灯条电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/917.html",
+          "shangpingshuliang": "20"
+        },
+        {
+          "shangpingmingcheng": "铝壳电阻",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11081.html",
+          "shangpingshuliang": "155"
+        },
+        {
+          "shangpingmingcheng": "分流器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11134.html",
+          "shangpingshuliang": "5"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/470.html",
+      "fenleishuliang": "39145",
+      "fenleimingcheng": "处理器及微控制器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "mindmotion(灵动)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11088.html",
+          "shangpingshuliang": "28"
+        },
+        {
+          "shangpingmingcheng": "其他处理器及微控制器(MCU)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11116.html",
+          "shangpingshuliang": "391"
+        },
+        {
+          "shangpingmingcheng": "SOC(赛元)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11117.html",
+          "shangpingshuliang": "115"
+        },
+        {
+          "shangpingmingcheng": "sinowealth(中颖电子)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11118.html",
+          "shangpingshuliang": "19"
+        },
+        {
+          "shangpingmingcheng": "预售MCU",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11181.html",
+          "shangpingshuliang": "31520"
+        },
+        {
+          "shangpingmingcheng": "CPLD/FPGA",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11163.html",
+          "shangpingshuliang": "260"
+        },
+        {
+          "shangpingmingcheng": "ARTERY(雅特力)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11172.html",
+          "shangpingshuliang": "32"
+        },
+        {
+          "shangpingmingcheng": "MICROCHIP(美国微芯)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/471.html",
+          "shangpingshuliang": "3616"
+        },
+        {
+          "shangpingmingcheng": "NXP(恩智浦)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/472.html",
+          "shangpingshuliang": "382"
+        },
+        {
+          "shangpingmingcheng": "ATMEL(爱特梅尔)/AVR",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/473.html",
+          "shangpingshuliang": "186"
+        },
+        {
+          "shangpingmingcheng": "ST(意法半导体)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/474.html",
+          "shangpingshuliang": "749"
+        },
+        {
+          "shangpingmingcheng": "CYPRESS(赛普拉斯)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/475.html",
+          "shangpingshuliang": "77"
+        },
+        {
+          "shangpingmingcheng": "TI(德州仪器)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/476.html",
+          "shangpingshuliang": "387"
+        },
+        {
+          "shangpingmingcheng": "MEGAWIN(笙泉)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/481.html",
+          "shangpingshuliang": "33"
+        },
+        {
+          "shangpingmingcheng": "NUVOTON(新唐)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/506.html",
+          "shangpingshuliang": "77"
+        },
+        {
+          "shangpingmingcheng": "STC(宏晶)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/507.html",
+          "shangpingshuliang": "356"
+        },
+        {
+          "shangpingmingcheng": "RENESAS(瑞萨)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/550.html",
+          "shangpingshuliang": "10"
+        },
+        {
+          "shangpingmingcheng": "ADI(亚德诺)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/566.html",
+          "shangpingshuliang": "58"
+        },
+        {
+          "shangpingmingcheng": "SILICON LABS(芯科)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/605.html",
+          "shangpingshuliang": "116"
+        },
+        {
+          "shangpingmingcheng": "HOLTEK(台湾合泰/盛群)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/908.html",
+          "shangpingshuliang": "84"
+        },
+        {
+          "shangpingmingcheng": "GigaDevice(兆易创新)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/918.html",
+          "shangpingshuliang": "85"
+        },
+        {
+          "shangpingmingcheng": "ABOV(现代)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11005.html",
+          "shangpingshuliang": "6"
+        },
+        {
+          "shangpingmingcheng": "EastSoft(东软载波)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11006.html",
+          "shangpingshuliang": "15"
+        },
+        {
+          "shangpingmingcheng": "ELAN(台湾义隆电子)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11007.html",
+          "shangpingshuliang": "8"
+        },
+        {
+          "shangpingmingcheng": "Fortior Technol(峰岹)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11008.html",
+          "shangpingshuliang": "4"
+        },
+        {
+          "shangpingmingcheng": "Infineon(英飞凌)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11009.html",
+          "shangpingshuliang": "338"
+        },
+        {
+          "shangpingmingcheng": "MDT(台湾麦肯)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11010.html",
+          "shangpingshuliang": "10"
+        },
+        {
+          "shangpingmingcheng": "PADAUK(应广)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11011.html",
+          "shangpingshuliang": "58"
+        },
+        {
+          "shangpingmingcheng": "SONIX(松翰)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11012.html",
+          "shangpingshuliang": "45"
+        },
+        {
+          "shangpingmingcheng": "WCH(南京沁恒)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11013.html",
+          "shangpingshuliang": "13"
+        },
+        {
+          "shangpingmingcheng": "华芯微特(Synwit)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11014.html",
+          "shangpingshuliang": "28"
+        },
+        {
+          "shangpingmingcheng": "钜泉光电",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11015.html",
+          "shangpingshuliang": "19"
+        },
+        {
+          "shangpingmingcheng": "Cmsemicon(中微股份)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11167.html",
+          "shangpingshuliang": "2"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/320.html",
+      "fenleishuliang": "28715",
+      "fenleimingcheng": "晶体管",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "预售晶体管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11178.html",
+          "shangpingshuliang": "6135"
+        },
+        {
+          "shangpingmingcheng": "三极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/326.html",
+          "shangpingshuliang": "5638"
+        },
+        {
+          "shangpingmingcheng": "MOS(场效应管)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/381.html",
+          "shangpingshuliang": "14682"
+        },
+        {
+          "shangpingmingcheng": "结型场效应晶体管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/381.html",
+          "shangpingshuliang": "36"
+        },
+        {
+          "shangpingmingcheng": "可控硅",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/388.html",
+          "shangpingshuliang": "807"
+        },
+        {
+          "shangpingmingcheng": "达林顿管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/464.html",
+          "shangpingshuliang": "124"
+        },
+        {
+          "shangpingmingcheng": "数字三极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/562.html",
+          "shangpingshuliang": "387"
+        },
+        {
+          "shangpingmingcheng": "IGBT管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/924.html",
+          "shangpingshuliang": "90"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/319.html",
+      "fenleishuliang": "29016",
+      "fenleimingcheng": "二极管",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "稳压二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/321.html",
+          "shangpingshuliang": "6770"
+        },
+        {
+          "shangpingmingcheng": "通用二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/370.html",
+          "shangpingshuliang": "1777"
+        },
+        {
+          "shangpingmingcheng": "快恢复二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/371.html",
+          "shangpingshuliang": "661"
+        },
+        {
+          "shangpingmingcheng": "超快恢复二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/372.html",
+          "shangpingshuliang": "1195"
+        },
+        {
+          "shangpingmingcheng": "肖特基二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/373.html",
+          "shangpingshuliang": "5166"
+        },
+        {
+          "shangpingmingcheng": "整流桥",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/375.html",
+          "shangpingshuliang": "1395"
+        },
+        {
+          "shangpingmingcheng": "开关二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/377.html",
+          "shangpingshuliang": "1044"
+        },
+        {
+          "shangpingmingcheng": "触发二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/379.html",
+          "shangpingshuliang": "38"
+        },
+        {
+          "shangpingmingcheng": "TVS二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/526.html",
+          "shangpingshuliang": "8627"
+        },
+        {
+          "shangpingmingcheng": "放电管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/548.html",
+          "shangpingshuliang": "773"
+        },
+        {
+          "shangpingmingcheng": "ESD二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/574.html",
+          "shangpingshuliang": "1334"
+        },
+        {
+          "shangpingmingcheng": "雪崩二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/895.html",
+          "shangpingshuliang": "30"
+        },
+        {
+          "shangpingmingcheng": "高效率二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/898.html",
+          "shangpingshuliang": "167"
+        },
+        {
+          "shangpingmingcheng": "变容二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/971.html",
+          "shangpingshuliang": "36"
+        },
+        {
+          "shangpingmingcheng": "恒流二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11021.html",
+          "shangpingshuliang": ""
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/380.html",
+      "fenleishuliang": "22729",
+      "fenleimingcheng": "电源芯片",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "线性稳压器(LDO)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/387.html",
+          "shangpingshuliang": "7060"
+        },
+        {
+          "shangpingmingcheng": "开关电源芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/483.html",
+          "shangpingshuliang": "1461"
+        },
+        {
+          "shangpingmingcheng": "DC-DC芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/484.html",
+          "shangpingshuliang": "6835"
+        },
+        {
+          "shangpingmingcheng": "专业电源管理 (PMIC)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/485.html",
+          "shangpingshuliang": "236"
+        },
+        {
+          "shangpingmingcheng": "电压基准芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/486.html",
+          "shangpingshuliang": "1456"
+        },
+        {
+          "shangpingmingcheng": "电池电源管理芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/612.html",
+          "shangpingshuliang": "1204"
+        },
+        {
+          "shangpingmingcheng": "电源模块DC-DC",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/634.html",
+          "shangpingshuliang": "1642"
+        },
+        {
+          "shangpingmingcheng": "电池保护芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/925.html",
+          "shangpingshuliang": "196"
+        },
+        {
+          "shangpingmingcheng": "电源监控芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/934.html",
+          "shangpingshuliang": "1115"
+        },
+        {
+          "shangpingmingcheng": "功率开关芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/969.html",
+          "shangpingshuliang": "857"
+        },
+        {
+          "shangpingmingcheng": "电源模块AC-DC",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11000.html",
+          "shangpingshuliang": "649"
+        },
+        {
+          "shangpingmingcheng": "电源模块-专用",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11122.html",
+          "shangpingshuliang": "1"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/365.html",
+      "fenleishuliang": "47554",
+      "fenleimingcheng": "连接器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "预售连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11177.html",
+          "shangpingshuliang": "20009"
+        },
+        {
+          "shangpingmingcheng": "排针排母",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/644.html",
+          "shangpingshuliang": "1209"
+        },
+        {
+          "shangpingmingcheng": "线对板/线对线连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11068.html",
+          "shangpingshuliang": "7746"
+        },
+        {
+          "shangpingmingcheng": "USB连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/369.html",
+          "shangpingshuliang": "1227"
+        },
+        {
+          "fenleishuliang": "牛角/简牛）",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/961.html",
+          "shangpingshuliang": "967"
+        },
+        {
+          "shangpingmingcheng": "FFC，FPC连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/545.html",
+          "shangpingshuliang": "1400"
+        },
+        {
+          "shangpingmingcheng": "插拔式接线端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11071.html",
+          "shangpingshuliang": "2394"
+        },
+        {
+          "shangpingmingcheng": "螺钉式接线端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11140.html",
+          "shangpingshuliang": "473"
+        },
+        {
+          "shangpingmingcheng": "弹簧式接线端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/432.html",
+          "shangpingshuliang": "192"
+        },
+        {
+          "shangpingmingcheng": "栅栏式接线端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11073.html",
+          "shangpingshuliang": "620"
+        },
+        {
+          "shangpingmingcheng": "以太网连接器 (RJ45 RJ11)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/449.html",
+          "shangpingshuliang": "415"
+        },
+        {
+          "shangpingmingcheng": "D-Sub连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/630.html",
+          "shangpingshuliang": "354"
+        },
+        {
+          "shangpingmingcheng": "音频与视频连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/590.html",
+          "shangpingshuliang": "358"
+        },
+        {
+          "shangpingmingcheng": "AC/DC电源插座",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/557.html",
+          "shangpingshuliang": "333"
+        },
+        {
+          "shangpingmingcheng": "IC插座",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/366.html",
+          "shangpingshuliang": "62"
+        },
+        {
+          "shangpingmingcheng": "卡座连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/637.html",
+          "shangpingshuliang": "300"
+        },
+        {
+          "fenleishuliang": "天线座）",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11072.html",
+          "shangpingshuliang": "123"
+        },
+        {
+          "shangpingmingcheng": "板对板连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/960.html",
+          "shangpingshuliang": "472"
+        },
+        {
+          "shangpingmingcheng": "压接端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11070.html",
+          "shangpingshuliang": "1752"
+        },
+        {
+          "shangpingmingcheng": "圆形连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/648.html",
+          "shangpingshuliang": "725"
+        },
+        {
+          "shangpingmingcheng": "轨道式接线端子",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11074.html",
+          "shangpingshuliang": "91"
+        },
+        {
+          "shangpingmingcheng": "“金手指”连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11083.html",
+          "shangpingshuliang": "130"
+        },
+        {
+          "shangpingmingcheng": "背板连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11082.html",
+          "shangpingshuliang": "142"
+        },
+        {
+          "shangpingmingcheng": "电源连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/367.html",
+          "shangpingshuliang": "161"
+        },
+        {
+          "shangpingmingcheng": "照明连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11131.html",
+          "shangpingshuliang": "24"
+        },
+        {
+          "shangpingmingcheng": "香蕉和尖头连接器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/973.html",
+          "shangpingshuliang": "63"
+        },
+        {
+          "fenleishuliang": "间隔柱）",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/977.html",
+          "shangpingshuliang": "58"
+        },
+        {
+          "shangpingmingcheng": "测试夹/鳄鱼夹",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/974.html",
+          "shangpingshuliang": "22"
+        },
+        {
+          "shangpingmingcheng": "短路帽",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/646.html",
+          "shangpingshuliang": "23"
+        },
+        {
+          "shangpingmingcheng": "测试点/测试环",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11040.html",
+          "shangpingshuliang": "18"
+        },
+        {
+          "shangpingmingcheng": "压线端子胶壳",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11067.html",
+          "shangpingshuliang": "4200"
+        },
+        {
+          "shangpingmingcheng": "连接器 - 外壳",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11079.html",
+          "shangpingshuliang": "967"
+        },
+        {
+          "shangpingmingcheng": "连接器 - 附件",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11034.html",
+          "shangpingshuliang": "52"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/450.html",
+      "fenleishuliang": "4954",
+      "fenleimingcheng": "光耦/发光管/红外",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "红外遥控接收头",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11174.html",
+          "shangpingshuliang": "86"
+        },
+        {
+          "shangpingmingcheng": "光耦",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/351.html",
+          "shangpingshuliang": "13"
+        },
+        {
+          "shangpingmingcheng": "发光二极管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/528.html",
+          "shangpingshuliang": "2421"
+        },
+        {
+          "shangpingmingcheng": "红外接收管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/451.html",
+          "shangpingshuliang": "136"
+        },
+        {
+          "shangpingmingcheng": "红外发射管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/639.html",
+          "shangpingshuliang": "162"
+        },
+        {
+          "shangpingmingcheng": "光电固态继电器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/919.html",
+          "shangpingshuliang": "196"
+        },
+        {
+          "shangpingmingcheng": "光电可控硅",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/931.html",
+          "shangpingshuliang": "111"
+        },
+        {
+          "shangpingmingcheng": "LED显示模组",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11091.html",
+          "shangpingshuliang": "19"
+        },
+        {
+          "shangpingmingcheng": "LED数码管",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/532.html",
+          "shangpingshuliang": "281"
+        },
+        {
+          "shangpingmingcheng": "光电开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/457.html",
+          "shangpingshuliang": "156"
+        },
+        {
+          "shangpingmingcheng": "菲涅尔透镜",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/958.html",
+          "shangpingshuliang": "5"
+        },
+        {
+          "shangpingmingcheng": "IrDA红外收发器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/975.html",
+          "shangpingshuliang": "5"
+        },
+        {
+          "shangpingmingcheng": "光纤收发器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11132.html",
+          "shangpingshuliang": "29"
+        },
+        {
+          "shangpingmingcheng": "硅光电池",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/453.html",
+          "shangpingshuliang": "2"
+        },
+        {
+          "shangpingmingcheng": "LED点阵",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/642.html",
+          "shangpingshuliang": "22"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/423.html",
+      "fenleishuliang": "8549",
+      "fenleimingcheng": "按键开关/继电器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "继电器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/531.html",
+          "shangpingshuliang": "1515"
+        },
+        {
+          "shangpingmingcheng": "继电器插座",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11121.html",
+          "shangpingshuliang": "40"
+        },
+        {
+          "shangpingmingcheng": "船型开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/424.html",
+          "shangpingshuliang": "118"
+        },
+        {
+          "shangpingmingcheng": "按键开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/425.html",
+          "shangpingshuliang": "336"
+        },
+        {
+          "shangpingmingcheng": "行程开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/426.html",
+          "shangpingshuliang": "512"
+        },
+        {
+          "shangpingmingcheng": "轻触开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/427.html",
+          "shangpingshuliang": "3800"
+        },
+        {
+          "shangpingmingcheng": "拨码开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/429.html",
+          "shangpingshuliang": "715"
+        },
+        {
+          "shangpingmingcheng": "五向开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/433.html",
+          "shangpingshuliang": "42"
+        },
+        {
+          "shangpingmingcheng": "多功能开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/434.html",
+          "shangpingshuliang": "59"
+        },
+        {
+          "shangpingmingcheng": "拨动开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/854.html",
+          "shangpingshuliang": "703"
+        },
+        {
+          "shangpingmingcheng": "旋转编码开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/943.html",
+          "shangpingshuliang": "345"
+        },
+        {
+          "shangpingmingcheng": "带灯开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/10990.html",
+          "shangpingshuliang": "144"
+        },
+        {
+          "shangpingmingcheng": "温控开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11024.html",
+          "shangpingshuliang": "48"
+        },
+        {
+          "shangpingmingcheng": "旋转波段开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11061.html",
+          "shangpingshuliang": "49"
+        },
+        {
+          "shangpingmingcheng": "交流接触器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11035.html",
+          "shangpingshuliang": "6"
+        },
+        {
+          "shangpingmingcheng": "压接接触器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11124.html",
+          "shangpingshuliang": "4"
+        },
+        {
+          "shangpingmingcheng": "专用开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11126.html",
+          "shangpingshuliang": "5"
+        },
+        {
+          "shangpingmingcheng": "锅仔片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11018.html",
+          "shangpingshuliang": "86"
+        },
+        {
+          "shangpingmingcheng": "开关配件/盖帽",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11066.html",
+          "shangpingshuliang": "17"
+        },
+        {
+          "shangpingmingcheng": "开关插座",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11025.html",
+          "shangpingshuliang": "22"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/575.html",
+      "fenleishuliang": "26268",
+      "fenleimingcheng": "接口芯片",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "预售芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11179.html",
+          "shangpingshuliang": "21979"
+        },
+        {
+          "shangpingmingcheng": "隔离器芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/581.html",
+          "shangpingshuliang": "761"
+        },
+        {
+          "shangpingmingcheng": "以太网芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/579.html",
+          "shangpingshuliang": "297"
+        },
+        {
+          "shangpingmingcheng": "USB芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/576.html",
+          "shangpingshuliang": "282"
+        },
+        {
+          "shangpingmingcheng": "RS-485/RS-422芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/578.html",
+          "shangpingshuliang": "919"
+        },
+        {
+          "shangpingmingcheng": "RS232芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/577.html",
+          "shangpingshuliang": "403"
+        },
+        {
+          "shangpingmingcheng": "CAN芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/606.html",
+          "shangpingshuliang": "283"
+        },
+        {
+          "shangpingmingcheng": "LVDS芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/607.html",
+          "shangpingshuliang": "124"
+        },
+        {
+          "shangpingmingcheng": "传感器接口芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11097.html",
+          "shangpingshuliang": "39"
+        },
+        {
+          "shangpingmingcheng": "接口 - LIN收发器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11119.html",
+          "shangpingshuliang": "71"
+        },
+        {
+          "shangpingmingcheng": "接口 - 信号缓冲器，中继器，分配器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11113.html",
+          "shangpingshuliang": "214"
+        },
+        {
+          "shangpingmingcheng": "接口 - I/O 扩展器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11114.html",
+          "shangpingshuliang": "104"
+        },
+        {
+          "shangpingmingcheng": "接口 - 控制器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11115.html",
+          "shangpingshuliang": "45"
+        },
+        {
+          "shangpingmingcheng": "接口 - 电信",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11110.html",
+          "shangpingshuliang": "33"
+        },
+        {
+          "shangpingmingcheng": "接口 - 直接数字合成(DDS)",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/861.html",
+          "shangpingshuliang": "28"
+        },
+        {
+          "shangpingmingcheng": "接口 - 专用",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11111.html",
+          "shangpingshuliang": "360"
+        },
+        {
+          "shangpingmingcheng": "串行接口芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11120.html",
+          "shangpingshuliang": "38"
+        },
+        {
+          "shangpingmingcheng": "视频音频接口芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/631.html",
+          "shangpingshuliang": "248"
+        },
+        {
+          "shangpingmingcheng": "触摸屏控制器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11038.html",
+          "shangpingshuliang": "4"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/601.html",
+      "fenleishuliang": "8225",
+      "fenleimingcheng": "模拟芯片",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "模数转换芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/614.html",
+          "shangpingshuliang": "3646"
+        },
+        {
+          "shangpingmingcheng": "数模转换芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/615.html",
+          "shangpingshuliang": "2664"
+        },
+        {
+          "shangpingmingcheng": "模拟开关芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/618.html",
+          "shangpingshuliang": "964"
+        },
+        {
+          "shangpingmingcheng": "电量计芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/619.html",
+          "shangpingshuliang": "62"
+        },
+        {
+          "shangpingmingcheng": "数字电位器芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/620.html",
+          "shangpingshuliang": "240"
+        },
+        {
+          "shangpingmingcheng": "电流监控芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/916.html",
+          "shangpingshuliang": "64"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/487.html",
+      "fenleishuliang": "8782",
+      "fenleimingcheng": "逻辑芯片",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "通用总线功能",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11173.html",
+          "shangpingshuliang": "11"
+        },
+        {
+          "shangpingmingcheng": "74系列逻辑芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/488.html",
+          "shangpingshuliang": "1243"
+        },
+        {
+          "shangpingmingcheng": "4000系列逻辑芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/489.html",
+          "shangpingshuliang": "167"
+        },
+        {
+          "shangpingmingcheng": "时基集成芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/490.html",
+          "shangpingshuliang": "399"
+        },
+        {
+          "shangpingmingcheng": "触发器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11099.html",
+          "shangpingshuliang": "637"
+        },
+        {
+          "shangpingmingcheng": "电平转换器,移位器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11098.html",
+          "shangpingshuliang": "315"
+        },
+        {
+          "shangpingmingcheng": "多频振荡器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11112.html",
+          "shangpingshuliang": "75"
+        },
+        {
+          "shangpingmingcheng": "锁存器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11106.html",
+          "shangpingshuliang": "243"
+        },
+        {
+          "shangpingmingcheng": "移位寄存器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11102.html",
+          "shangpingshuliang": "290"
+        },
+        {
+          "shangpingmingcheng": "计数器,除法器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11103.html",
+          "shangpingshuliang": "264"
+        },
+        {
+          "shangpingmingcheng": "门极和反相器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11104.html",
+          "shangpingshuliang": "2431"
+        },
+        {
+          "shangpingmingcheng": "信号开关,多路复用器,解码器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11100.html",
+          "shangpingshuliang": "697"
+        },
+        {
+          "shangpingmingcheng": "逻辑-缓冲器,驱动器,接收器,收发器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11105.html",
+          "shangpingshuliang": "1768"
+        },
+        {
+          "shangpingmingcheng": "编解码芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/929.html",
+          "shangpingshuliang": "209"
+        },
+        {
+          "shangpingmingcheng": "专用逻辑芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11101.html",
+          "shangpingshuliang": "3"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/316.html",
+      "fenleishuliang": "52805",
+      "fenleimingcheng": "电感/扼流圈/变压器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "预售阻容感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11180.html",
+          "shangpingshuliang": "30673"
+        },
+        {
+          "shangpingmingcheng": "贴片电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/337.html",
+          "shangpingshuliang": "5046"
+        },
+        {
+          "shangpingmingcheng": "功率电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/544.html",
+          "shangpingshuliang": "10203"
+        },
+        {
+          "shangpingmingcheng": "高频电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/913.html",
+          "shangpingshuliang": "3174"
+        },
+        {
+          "shangpingmingcheng": "磁珠",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/527.html",
+          "shangpingshuliang": "26"
+        },
+        {
+          "shangpingmingcheng": "工字电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/635.html",
+          "shangpingshuliang": "130"
+        },
+        {
+          "shangpingmingcheng": "色环电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/567.html",
+          "shangpingshuliang": "55"
+        },
+        {
+          "shangpingmingcheng": "磁环电感",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11090.html",
+          "shangpingshuliang": "21"
+        },
+        {
+          "shangpingmingcheng": "网口变压器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/543.html",
+          "shangpingshuliang": "158"
+        },
+        {
+          "shangpingmingcheng": "电源变压器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/636.html",
+          "shangpingshuliang": "36"
+        },
+        {
+          "shangpingmingcheng": "共模电感/滤波器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/640.html",
+          "shangpingshuliang": "490"
+        },
+        {
+          "shangpingmingcheng": "互感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/944.html",
+          "shangpingshuliang": "58"
+        },
+        {
+          "shangpingmingcheng": "平衡-不平衡(巴伦balun)变压器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11128.html",
+          "shangpingshuliang": "9"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/515.html",
+      "fenleimingcheng": "放大器、线性器件",
+      "fenleishuliang": "6370",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "特殊功能放大器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11055.html",
+          "shangpingshuliang": "187"
+        },
+        {
+          "shangpingmingcheng": "通用运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/516.html",
+          "shangpingshuliang": "1544"
+        },
+        {
+          "shangpingmingcheng": "电压比较器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/517.html",
+          "shangpingshuliang": "580"
+        },
+        {
+          "shangpingmingcheng": "音频功率放大器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/518.html",
+          "shangpingshuliang": "543"
+        },
+        {
+          "shangpingmingcheng": "放大器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/519.html",
+          "shangpingshuliang": "620"
+        },
+        {
+          "shangpingmingcheng": "高速、宽带运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/593.html",
+          "shangpingshuliang": "410"
+        },
+        {
+          "shangpingmingcheng": "仪表运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/594.html",
+          "shangpingshuliang": "172"
+        },
+        {
+          "shangpingmingcheng": "精密运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/597.html",
+          "shangpingshuliang": "1016"
+        },
+        {
+          "shangpingmingcheng": "FET输入运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/598.html",
+          "shangpingshuliang": "200"
+        },
+        {
+          "shangpingmingcheng": "低噪声运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/599.html",
+          "shangpingshuliang": "355"
+        },
+        {
+          "shangpingmingcheng": "低功耗运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/602.html",
+          "shangpingshuliang": "465"
+        },
+        {
+          "shangpingmingcheng": "差分运放",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/604.html",
+          "shangpingshuliang": "27"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/986.html",
+      "fenleimingcheng": "射频/无线电",
+      "fenleishuliang": "2059",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "RF其它IC和模块",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11166.html",
+          "shangpingshuliang": "211"
+        },
+        {
+          "shangpingmingcheng": "无线收发芯片 ",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/542.html",
+          "shangpingshuliang": "402"
+        },
+        {
+          "shangpingmingcheng": "天线",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/912.html",
+          "shangpingshuliang": "4"
+        },
       {
-        "productModel": "B5120",
-        "productId": "193249",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "1.8m",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "公牛",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/33A5D613F2EB078D4EB0960412A7B584.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/44B72A0190FC65FA7C41B36077B26E2B.jpg",
-        "productName": "B5120  3插 新国标排插 ",
-        "pdfDESProductId": "C3D5250A0DED3A8C296C67311B688FC3",
-        "productCode": "C181852",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/33A5D613F2EB078D4EB0960412A7B584.jpg",
-        "productGradePlateId": "1051",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          }
-        ],
-        "productTypeCode": "965",
-        "productType": "其他",
-        "productGradePlateNameWithoutHighlight": "公牛",
-        "order": 1
-      },
+          "shangpingmingcheng": "射频开关",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/980.html",
+          "shangpingshuliang": "274"
+        },
+        {
+          "shangpingmingcheng": "射频卡芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/981.html",
+          "shangpingshuliang": "90"
+        },
+        {
+          "shangpingmingcheng": "RF 放大器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/10987.html",
+          "shangpingshuliang": "320"
+        },
+        {
+          "shangpingmingcheng": "RF 混频器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/10988.html",
+          "shangpingshuliang": "114"
+        },
+        {
+          "shangpingmingcheng": "RF 检测器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/10989.html",
+          "shangpingshuliang": "53"
+        },
+        {
+          "shangpingmingcheng": "RF 衰减器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11019.html",
+          "shangpingshuliang": "60"
+        },
+        {
+          "shangpingmingcheng": "RF 双工器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11078.html",
+          "shangpingshuliang": "49"
+        },
+        {
+          "shangpingmingcheng": "RF 耦合器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11037.html",
+          "shangpingshuliang": "8"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/493.html",
+      "fenleishuliang": "1514",
+      "fenleimingcheng": "嵌入式外围芯片",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "MCU监控芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/494.html",
+          "shangpingshuliang": "847"
+        },
+        {
+          "shangpingmingcheng": "实时时钟芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/499.html",
+          "shangpingshuliang": "152"
+        },
+        {
+          "shangpingmingcheng": "时钟缓冲器,驱动器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11108.html",
+          "shangpingshuliang": "189"
+        },
+        {
+          "shangpingmingcheng": "时钟发生器,PLL,频率合成器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11109.html",
+          "shangpingshuliang": "204"
+        },
+        {
+          "shangpingmingcheng": "字库芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/858.html",
+          "shangpingshuliang": "34"
+        },
+        {
+          "shangpingmingcheng": "时钟/计时-专用",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11107.html",
+          "shangpingshuliang": "63"
+        },
+        {
+          "shangpingmingcheng": "安全验证",
+          "shangpingshuliang": "25",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11133.html"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/513.html",
+      "fenleishuliang": "2647",
+      "fenleimingcheng": "传感器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "气体传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11044.html",
+          "shangpingshuliang": "43"
+        },
+        {
+          "shangpingmingcheng": "压力传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11046.html",
+          "shangpingshuliang": "140"
+        },
+        {
+          "shangpingmingcheng": "角速度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11063.html",
+          "shangpingshuliang": "32"
+        },
+        {
+          "shangpingmingcheng": "姿态传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11064.html",
+          "shangpingshuliang": "19"
+        },
+        {
+          "shangpingmingcheng": "磁性传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11086.html",
+          "shangpingshuliang": "622"
+        },
+        {
+          "shangpingmingcheng": "专用传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11092.html",
+          "shangpingshuliang": "60"
+        },
+        {
+          "shangpingmingcheng": "光学传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11093.html",
+          "shangpingshuliang": "200"
+        },
+        {
+          "shangpingmingcheng": "湿度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11094.html",
+          "shangpingshuliang": "15"
+        },
+        {
+          "shangpingmingcheng": "电流传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11095.html",
+          "shangpingshuliang": "448"
+        },
+        {
+          "shangpingmingcheng": "角度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11096.html",
+          "shangpingshuliang": "43"
+        },
+        {
+          "shangpingmingcheng": "位置传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11123.html",
+          "shangpingshuliang": "39"
+        },
+        {
+          "shangpingmingcheng": "应变片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11153.html",
+          "shangpingshuliang": "15"
+        },
+        {
+          "shangpingmingcheng": "超声波传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11146.html",
+          "shangpingshuliang": "31"
+        },
+        {
+          "shangpingmingcheng": "温度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/585.html",
+          "shangpingshuliang": "423"
+        },
+        {
+          "shangpingmingcheng": "颜色传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/586.html",
+          "shangpingshuliang": "5"
+        },
+        {
+          "shangpingmingcheng": "图像传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/587.html",
+          "shangpingshuliang": "52"
+        },
+        {
+          "shangpingmingcheng": "加速度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/588.html",
+          "shangpingshuliang": "114"
+        },
+        {
+          "shangpingmingcheng": "触摸芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/902.html",
+          "shangpingshuliang": "171"
+        },
+        {
+          "shangpingmingcheng": "温湿度传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/922.html",
+          "shangpingshuliang": "64"
+        },
+        {
+          "shangpingmingcheng": "环境光传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/923.html",
+          "shangpingshuliang": "86"
+        },
+        {
+          "shangpingmingcheng": "红外传感器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/930.html",
+          "shangpingshuliang": "2"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/500.html",
+      "fenleishuliang": "1799",
+      "fenleimingcheng": "存储器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "SDRAM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11043.html",
+          "shangpingshuliang": "73"
+        },
+        {
+          "shangpingmingcheng": "存储卡/硬盘/U盘",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11154.html",
+          "shangpingshuliang": "50"
+        },
+        {
+          "shangpingmingcheng": "FLASH存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/501.html",
+          "shangpingshuliang": "708"
+        },
+        {
+          "shangpingmingcheng": "EEPROM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/502.html",
+          "shangpingshuliang": "692"
+        },
+        {
+          "shangpingmingcheng": "SRAM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/503.html",
+          "shangpingshuliang": "118"
+        },
+        {
+          "shangpingmingcheng": "FRAM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/504.html",
+          "shangpingshuliang": "75"
+        },
+        {
+          "shangpingmingcheng": "PROM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/860.html",
+          "shangpingshuliang": "7"
+        },
+        {
+          "shangpingmingcheng": "DDR存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/893.html",
+          "shangpingshuliang": "57"
+        },
+        {
+          "shangpingmingcheng": "EPROM存储器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/983.html",
+          "shangpingshuliang": "19"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/582.html",
+      "fenleishuliang": "3891",
+      "fenleimingcheng": "驱动器",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "视频滤波驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11062.html",
+          "shangpingshuliang": "31"
+        },
+        {
+          "shangpingmingcheng": "全桥/半桥驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11065.html",
+          "shangpingshuliang": "167"
+        },
+        {
+          "shangpingmingcheng": "镇流器控制器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11129.html",
+          "shangpingshuliang": "4"
+        },
+        {
+          "shangpingmingcheng": "LED驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/583.html",
+          "shangpingshuliang": "1677"
+        },
+        {
+          "shangpingmingcheng": "LCD驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/584.html",
+          "shangpingshuliang": "95"
+        },
+        {
+          "shangpingmingcheng": "MOS驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/591.html",
+          "shangpingshuliang": "663"
+        },
+        {
+          "shangpingmingcheng": "达林顿晶体管阵列驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/608.html",
+          "shangpingshuliang": "118"
+        },
+        {
+          "shangpingmingcheng": "驱动芯片",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/609.html",
+          "shangpingshuliang": "306"
+        },
+        {
+          "shangpingmingcheng": "电机驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/611.html",
+          "shangpingshuliang": "721"
+        },
+        {
+          "shangpingmingcheng": "IGBT驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/751.html",
+          "shangpingshuliang": "104"
+        },
+        {
+          "shangpingmingcheng": "EL驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/935.html",
+          "shangpingshuliang": "2"
+        },
+        {
+          "shangpingmingcheng": "特殊功能驱动",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11089.html",
+          "shangpingshuliang": "22"
+        }
+      ]
+    },
+    {
+      "fenleiwangzhi": "https://list.szlcsc.com/catalog/348.html",
+      "fenleishuliang": "60528",
+      "fenleimingcheng": "晶振",
+      "fenlishangping": [
+        {
+          "shangpingmingcheng": "MEMS硅振荡器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/11183.html",
+          "shangpingshuliang": "54569"
+        },
+        {
+          "shangpingmingcheng": "直插晶体振荡器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/535.html",
+          "shangpingshuliang": "11"
+        },
+       
       {
-        "productModel": "MJYD04YL",
-        "productId": "566421",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "MI(小米)",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20200519/0A0F232AC5381589B45D5E0FC81BFD05.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20200519/5C323EA432BE39990FDA7B018C324C24.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20200519/5C6B80B5C4071A7E8A79900CCC0178ED.jpg",
-        "productName": "米家插电夜灯 ",
-        "pdfDESProductId": "F9BD5AED4D16ED18296C67311B688FC3",
-        "productCode": "C545412",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20200519/0A0F232AC5381589B45D5E0FC81BFD05.jpg",
-        "productGradePlateId": "12064",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          },
-          {
-            "productPrice": 23
-          }
-        ],
-        "productTypeCode": "11156",
-        "productType": "实用电子电器",
-        "productGradePlateNameWithoutHighlight": "MI(小米)",
-        "order": 2
-      },
-      {
-        "productModel": "DL1033D",
-        "productId": "403917",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "deli(得力)",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20190819/562B18606DB13FB205215A127A9A6A6D.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20190819/D46AAF71ED8D17FA7BC50F1C3836876D.jpg",
-        "productName": "螺丝刀套装 得力(G86) ",
-        "pdfDESProductId": "EB1BBA5CBB77D845296C67311B688FC3",
-        "productCode": "C412236",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20190819/562B18606DB13FB205215A127A9A6A6D.jpg",
-        "productGradePlateId": "12035",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 28
-          },
-          {
-            "productPrice": 28
-          },
-          {
-            "productPrice": 28
-          },
-          {
-            "productPrice": 28
-          },
-          {
-            "productPrice": 28
-          },
-          {
-            "productPrice": 28
-          }
-        ],
-        "productTypeCode": "871",
-        "productType": "螺丝刀/钳",
-        "productGradePlateNameWithoutHighlight": "deli(得力)",
-        "order": 3
-      },
-      {
-        "productModel": "LC-M-23 32GB",
-        "productId": "631467",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "LC(立创)",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20200616/6602536ECB8CF56559AEADAFF0F24C49.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20200616/EB810D961BB1856472FDEE04E55CF35C.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20200616/456D9673F7940444620BB5CEC4F17040.jpg",
-        "productName": "U盘32G USB2.0 ",
-        "pdfDESProductId": "5794CFD1790E8D9E296C67311B688FC3",
-        "productCode": "C601502",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20200616/6602536ECB8CF56559AEADAFF0F24C49.jpg",
-        "productGradePlateId": "637",
-        "parentCatalogId": "500",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 30
-          },
-          {
-            "productPrice": 30
-          },
-          {
-            "productPrice": 30
-          },
-          {
-            "productPrice": 30
-          },
-          {
-            "productPrice": 30
-          },
-          {
-            "productPrice": 30
-          }
-        ],
-        "productTypeCode": "11154",
-        "productType": "存储卡/硬盘/U盘",
-        "productGradePlateNameWithoutHighlight": "LC(立创)",
-        "order": 4
-      },
-      {
-        "productModel": "DT-9205M",
-        "productId": "97048",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "BEST/倍思特",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/E08AEBFB50E2D1FD0752A715302B80B7.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/449AB9343BD6BA0CFBD54F6EF11894D7.jpg",
-        "productName": "DT-9205M数字万用表 ",
-        "pdfDESProductId": "E10FCE128AFF4479",
-        "productCode": "C95844",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/E08AEBFB50E2D1FD0752A715302B80B7.jpg",
-        "productGradePlateId": "1054",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 30.57
-          },
-          {
-            "productPrice": 29.81
-          },
-          {
-            "productPrice": 29.81
-          },
-          {
-            "productPrice": 29.81
-          },
-          {
-            "productPrice": 29.81
-          },
-          {
-            "productPrice": 29.81
-          }
-        ],
-        "productTypeCode": "573",
-        "productType": "万用表/仪表",
-        "productGradePlateNameWithoutHighlight": "BEST/倍思特",
-        "order": 5
-      },
-      {
-        "productModel": "B5220",
-        "productId": "192454",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "1.8m",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "公牛",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/D2264C36F8EA280052737BCDC57C62C5.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/D31405F650432D16043A15912AD23EE5.jpg",
-        "productName": "B5220 4插 新国标排插 ",
-        "pdfDESProductId": "B347CD21C24DB499296C67311B688FC3",
-        "productCode": "C181057",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/D2264C36F8EA280052737BCDC57C62C5.jpg",
-        "productGradePlateId": "1051",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 24.86
-          },
-          {
-            "productPrice": 24.45
-          },
-          {
-            "productPrice": 24.45
-          },
-          {
-            "productPrice": 24.45
-          },
-          {
-            "productPrice": 24.45
-          },
-          {
-            "productPrice": 24.45
-          }
-        ],
-        "productTypeCode": "965",
-        "productType": "其他",
-        "productGradePlateNameWithoutHighlight": "公牛",
-        "order": 6
-      },
-      {
-        "productModel": "BST-201ESD",
-        "productId": "96327",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "BEST/倍思特",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/E625368AB97249BA17B6C145B28939A6.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/9C41C47FD26CD337C3F5AA77A00B5207.jpg",
-        "productName": "BST-201ESD ",
-        "pdfDESProductId": "618761EB722EFE32",
-        "productCode": "C95126",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/E625368AB97249BA17B6C145B28939A6.jpg",
-        "productGradePlateId": "1054",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 6.90
-          },
-          {
-            "productPrice": 6.74
-          },
-          {
-            "productPrice": 6.74
-          },
-          {
-            "productPrice": 6.74
-          },
-          {
-            "productPrice": 6.74
-          },
-          {
-            "productPrice": 6.74
-          }
-        ],
-        "productTypeCode": "869",
-        "productType": "镊子",
-        "productGradePlateNameWithoutHighlight": "BEST/倍思特",
-        "order": 7
-      },
-      {
-        "productModel": "ST-11A高温海绵",
-        "productId": "110242",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "40mm*55mm",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "黄花电子",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/ADEDED852E262D5397ABBDDF2C8718E2.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/477AD90C7DA9654643A48483D09F960E.jpg",
-        "productName": "ST-11A高温海绵 ",
-        "pdfDESProductId": "CC82AABEE5D3BAA7296C67311B688FC3",
-        "productCode": "C109021",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/ADEDED852E262D5397ABBDDF2C8718E2.jpg",
-        "productGradePlateId": "992",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 3.81
-          },
-          {
-            "productPrice": 3.75
-          },
-          {
-            "productPrice": 3.75
-          },
-          {
-            "productPrice": 3.75
-          },
-          {
-            "productPrice": 3.75
-          },
-          {
-            "productPrice": 3.75
-          }
-        ],
-        "productTypeCode": "965",
-        "productType": "其他",
-        "productGradePlateNameWithoutHighlight": "黄花电子",
-        "order": 8
-      },
-      {
-        "productModel": "黄花恒温电烙铁NO.907",
-        "productId": "88122",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "黄花电子",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/67DE758F1C60BA0BCF7654154336AE9B.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/08780182823FE0B6E9D95624A96A04FB.jpg",
-        "productName": "黄花恒温电烙铁NO.907 ",
-        "pdfDESProductId": "1EBADAE3C4E72FD2",
-        "productCode": "C86945",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/67DE758F1C60BA0BCF7654154336AE9B.jpg",
-        "productGradePlateId": "992",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 47.49
-          },
-          {
-            "productPrice": 46.31
-          },
-          {
-            "productPrice": 46.31
-          },
-          {
-            "productPrice": 46.31
-          },
-          {
-            "productPrice": 46.31
-          },
-          {
-            "productPrice": 46.31
-          }
-        ],
-        "productTypeCode": "950",
-        "productType": "焊接工具",
-        "productGradePlateNameWithoutHighlight": "黄花电子",
-        "order": 9
-      },
-      {
-        "productModel": "960-SK",
-        "productId": "100150",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "QUICK 快克",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/F094165B31B384823F9E54564F0EB0E4.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/AB7F2CCCF7FC204AF1BDAAEABDE174DB.jpg",
-        "productName": "烙铁头 刀头 936通用 ",
-        "pdfDESProductId": "2EF5F0DD56806275296C67311B688FC3",
-        "productCode": "C98938",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/F094165B31B384823F9E54564F0EB0E4.jpg",
-        "productGradePlateId": "1118",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 7.59
-          },
-          {
-            "productPrice": 7.47
-          },
-          {
-            "productPrice": 7.47
-          },
-          {
-            "productPrice": 7.47
-          },
-          {
-            "productPrice": 7.47
-          },
-          {
-            "productPrice": 7.47
-          }
-        ],
-        "productTypeCode": "950",
-        "productType": "焊接工具",
-        "productGradePlateNameWithoutHighlight": "QUICK 快克",
-        "order": 10
-      },
-      {
-        "productModel": "LCSC530+",
-        "productId": "377829",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "LC(立创)",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20190816/591A7B74C6A80243A918FB290357E43D.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20190816/601F68A7E6992BD8DC9260509FC94D24.jpg",
-        "productName": "万用表 ",
-        "pdfDESProductId": "17612186A4938E91296C67311B688FC3",
-        "productCode": "C396546",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20190816/591A7B74C6A80243A918FB290357E43D.jpg",
-        "productGradePlateId": "637",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 89.00
-          },
-          {
-            "productPrice": 87.46
-          },
-          {
-            "productPrice": 87.46
-          },
-          {
-            "productPrice": 87.46
-          },
-          {
-            "productPrice": 87.46
-          },
-          {
-            "productPrice": 87.46
-          }
-        ],
-        "productTypeCode": "573",
-        "productType": "万用表/仪表",
-        "productGradePlateNameWithoutHighlight": "LC(立创)",
-        "order": 11
-      },
-      {
-        "productModel": "GN-B5330",
-        "productId": "193247",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "1.8m",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "no",
-        "productGradePlateName": "公牛",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/B01E4C10E06A5CAE26B94FA015D3EFAA.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/DEC233472FEE015A1EFC4EBB8C6DE8EE.jpg",
-        "productName": "B5330  6插 新国标排插 ",
-        "pdfDESProductId": "7533BABB3882A1CF296C67311B688FC3",
-        "productCode": "C181850",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/B01E4C10E06A5CAE26B94FA015D3EFAA.jpg",
-        "productGradePlateId": "1051",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 31.76
-          },
-          {
-            "productPrice": 31.23
-          },
-          {
-            "productPrice": 31.23
-          },
-          {
-            "productPrice": 31.23
-          },
-          {
-            "productPrice": 31.23
-          },
-          {
-            "productPrice": 31.23
-          }
-        ],
-        "productTypeCode": "965",
-        "productType": "其他",
-        "productGradePlateNameWithoutHighlight": "公牛",
-        "order": 12
-      },
-      {
-        "productModel": "维修佬原装强力吸锡带2015",
-        "productId": "89181",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "香港维修佬",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/C4AE0DA7391010DBE68F02FAAFF3496C.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/E384930E686A7EF629CB43300A96F279.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/948E048ECEFF2D67C9E0F606A23CE7F4.jpg<$>https://alimg.szlcsc.com/upload/public/brand/product/certificate/20200617/8AB68EAAF1F4D1DE10593CF96BFF4D86.jpg",
-        "productName": "维修佬原装强力吸锡带2015 ",
-        "pdfDESProductId": "9B41A22D687794B6",
-        "productCode": "C88003",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/C4AE0DA7391010DBE68F02FAAFF3496C.jpg",
-        "productGradePlateId": "754",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 6.06
-          },
-          {
-            "productPrice": 5.96
-          },
-          {
-            "productPrice": 5.96
-          },
-          {
-            "productPrice": 5.96
-          },
-          {
-            "productPrice": 5.96
-          },
-          {
-            "productPrice": 5.96
-          }
-        ],
-        "productTypeCode": "978",
-        "productType": "吸锡带",
-        "productGradePlateNameWithoutHighlight": "香港维修佬",
-        "order": 13
-      },
-      {
-        "productModel": "万用表表笔/表笔1000V20A特尖袋装",
-        "productId": "172030",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "-",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "胜利(VICTOR)",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20181225/FCA3450C2E28BB35B4ADBD12DE7C6A9D.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20181225/EBF28F1B052D2C1D571022291D7522D5.jpg",
-        "productName": "万用表表笔/表笔 1000V 20A 特尖 袋装 ",
-        "pdfDESProductId": "635847EF87580395296C67311B688FC3",
-        "productCode": "C160650",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20181225/FCA3450C2E28BB35B4ADBD12DE7C6A9D.jpg",
-        "productGradePlateId": "473",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 11.24
-          },
-          {
-            "productPrice": 11.06
-          },
-          {
-            "productPrice": 11.06
-          },
-          {
-            "productPrice": 11.06
-          },
-          {
-            "productPrice": 11.06
-          },
-          {
-            "productPrice": 11.06
-          }
-        ],
-        "productTypeCode": "853",
-        "productType": "万用表表笔",
-        "productGradePlateNameWithoutHighlight": "胜利(VICTOR)",
-        "order": 14
-      },
-      {
-        "productModel": "BST-109",
-        "productId": "123765",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "120mm",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "BEST/倍思特",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/1E6849FA11858075C0035D7557433073.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/D29D3FAE186CEB8A8489F9902EC467F3.jpg",
-        "productName": "迷你斜口钳钳重型BST-109 ",
-        "pdfDESProductId": "ED2FB000BFC66756296C67311B688FC3",
-        "productCode": "C122496",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/1E6849FA11858075C0035D7557433073.jpg",
-        "productGradePlateId": "1054",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 8.90
-          },
-          {
-            "productPrice": 8.68
-          },
-          {
-            "productPrice": 8.68
-          },
-          {
-            "productPrice": 8.68
-          },
-          {
-            "productPrice": 8.68
-          },
-          {
-            "productPrice": 8.68
-          }
-        ],
-        "productTypeCode": "871",
-        "productType": "螺丝刀/钳",
-        "productGradePlateNameWithoutHighlight": "BEST/倍思特",
-        "order": 15
-      },
-      {
-        "productModel": "1#",
-        "productId": "16284",
-        "venditionUnit": "个",
-        "hasAnnexPCB": "no",
-        "encapsulationModel": "25×31.5×21.5",
-        "hasStockNow": "yes",
-        "hasAnnexPDF": "yes",
-        "productGradePlateName": "台湾稳态",
-        "luceneBreviaryImageUrls": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/4DE0D7BFE074B0CDA30077DD647C0EEA.jpg<$>https://alimg.szlcsc.com/upload/public/product/breviary/20180907/9180554E991E4AB1BC952548DE91C612.jpg",
-        "productName": "蓝色 塑料 .",
-        "pdfDESProductId": "C2763D387EC67262",
-        "productCode": "C15603",
-        "breviaryImageUrl": "https://alimg.szlcsc.com/upload/public/product/breviary/20180907/4DE0D7BFE074B0CDA30077DD647C0EEA.jpg",
-        "productGradePlateId": "436",
-        "parentCatalogId": "570",
-        "ruleGroup": "cold",
-        "productPriceList": [
-          {
-            "productPrice": 0.9651
-          },
-          {
-            "productPrice": 0.7067
-          },
-          {
-            "productPrice": 0.6593
-          },
-          {
-            "productPrice": 0.6118
-          },
-          {
-            "productPrice": 0.5907
-          },
-          {
-            "productPrice": 0.5803
-          }
-        ],
-        "productTypeCode": "571",
-        "productType": "万用组合式零件盒",
-        "productGradePlateNameWithoutHighlight": "台湾稳态",
-        "order": 16
-      }
-    ],
-    "recommendSize": 16
-  }
+          "shangpingmingcheng": "贴片晶体振荡器",
+          "shangpingwangzhi": "https://list.szlcsc.com/catalog/364.html",
+          "shangpingshuliang": "1992"
+        }
+      ]
+    }
+  ]
+}
