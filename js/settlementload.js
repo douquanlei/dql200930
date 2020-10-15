@@ -61,6 +61,12 @@ define(["jquery", "jquery-cookie"], function($){
             
               $('.total span').remove()
               $(`<span>${JSON.parse($.cookie("goods")).length}</span>`).appendTo($(".total"))
+              var allnumll=0
+                for(var z=0;z<$('.commodity01').length;z++){
+                    allnumll+=Number($('.commodity01').eq(z).closest(".commodity").children("div.commodity5").html().substring(1))            
+                }
+                $(".mainbottomselected1").html($('.commodity01').length);
+                $(".mainbottomselected2").html(allnumll.toFixed(2))
             return false;
         })
         $(".maincent").on("click", ".commodity41,.commodity42", function(){
@@ -80,16 +86,17 @@ define(["jquery", "jquery-cookie"], function($){
                     }
                     break;
                 }
+                
             }
             //更新页面上的数量
             $(this).siblings(".commodity43").val(cookieArr[i].num);
             $(this).closest(".commodity").children("div.commodity5").html(`￥${($(this).closest(".commodity").children("div.commodity3").html().substring(1)*cookieArr[i].num).toFixed(2)}`)
-            // $(this).siblings(".commodity5").val(cookieArr[i].num*);
-            //更新页面上的单个商品价格
-            // var price = parseFloat($(this).closest(".col-num").siblings(".col-price").html().trim());
-            // $(this).closest(".col-num").siblings(".col-total").html((price * cookieArr[i].num).toFixed(1) + "元");
-
-            //最后将更改后的数据存储到cookie中
+            var allnumll=0
+                for(var z=0;z<$('.commodity01').length;z++){
+                    allnumll+=Number($('.commodity01').eq(z).closest(".commodity").children("div.commodity5").html().substring(1))            
+                }
+                $(".mainbottomselected1").html($('.commodity01').length);
+                $(".mainbottomselected2").html(allnumll.toFixed(2))
             $.cookie("goods", JSON.stringify(cookieArr), {
                 expires: 7
             })
@@ -117,13 +124,20 @@ define(["jquery", "jquery-cookie"], function($){
         })
         // isCheckAll();//计算总数
         $(".maincent").on("click", '.selectall input', function(){
-            console.log(123151561165)
             if( $(this).is(':checked')){
                 $('.commodity0').addClass("commodity01");
+
                 $('.commodity0').prop("checked", true)
+                var allnumll=0
+                for(var z=0;z<$('.commodity01').length;z++){
+                    allnumll+=Number($('.commodity01').eq(z).closest(".commodity").children("div.commodity5").html().substring(1))            
+                }
+                $(".mainbottomselected1").html($('.commodity01').length);
+                $(".mainbottomselected2").html(allnumll.toFixed(2))
             }else{$('.commodity0').removeClass("commodity01");
                 $('.commodity0').prop("checked", false)
-                
+                $(".mainbottomselected1").html($('.commodity01').length);
+                $(".mainbottomselected2").html(0)
             }
            
         })
