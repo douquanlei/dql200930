@@ -28,7 +28,7 @@
 	/*
 		天龙八部链接数据库，将数据插入到数据库中
 	*/
-	$link = mysqli_connect("127.0.0.1", "root", "123456abc");
+	$link = mysql_connect("127.0.0.1", "root", "258097");
 
 	if(!$link){
 		$responseData['code'] = 3;
@@ -37,21 +37,21 @@
 		exit;
 	}
 
-	mysqli_set_charset($link, "utf8");
+	mysql_set_charset("utf8");
 
-	mysqli_select_db($link, "xiaomi");
+	mysql_select_db("lc");
 
 	$str = md5(md5(md5($password).'beijing').'zhongguo');
 
 
 	//准备sql语句进行登录
-	$sql = "SELECT * FROM users WHERE username='{$username}' AND password='{$str}'";
+	$sql = "SELECT * FROM id WHERE username='{$username}' AND password='{$str}'";
 	// echo $sql;
 
-	$res = mysqli_query($link, $sql);
+	$res = mysql_query( $sql);
 	//[mysql result]
 	//取出第一行数据，判断数据是否存在，如果存在返回关联数组，否则返回false
-	$row = mysqli_fetch_assoc($res);
+	$row = mysql_fetch_assoc($res);
 
 	if(!$row){
 		$responseData['code'] = 4;
@@ -65,5 +65,5 @@
 	}
 
 
-	mysqli_close($link);
+	mysql_close($link);
  ?>

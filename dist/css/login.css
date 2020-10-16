@@ -91,3 +91,130 @@ body, html {
   min-width: 1200px;
   background: #C7E7F6 url(../images/3_51lcsc.jpg) no-repeat center;
   background-size: contain; }
+  .loginmian .loginmian1 {
+    width: 1200px;
+    margin: auto;
+    padding-top: 50px; }
+    .loginmian .loginmian1 .loginmian2 {
+      width: 390px;
+      float: right;
+      background: #F9F9F9; }
+      .loginmian .loginmian1 .loginmian2 .loginmian21 {
+        display: inline-block;
+        color: #666666;
+        background: #E6E6E6;
+        width: 130px;
+        line-height: 55px;
+        text-align: center;
+        cursor: pointer; }
+      .loginmian .loginmian1 .loginmian2 .loginmian22 {
+        background: #F9F9F9;
+        color: #FF6600; }
+      .loginmian .loginmian1 .loginmian2 .loginmian23 {
+        display: block;
+        text-align: center; }
+        .loginmian .loginmian1 .loginmian2 .loginmian23 img {
+          width: 200px;
+          height: 200px;
+          margin-top: 50px;
+          margin-bottom: 10px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian23 p {
+          line-height: 20px;
+          font-size: 12px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian23 a {
+          display: block;
+          font-size: 14px;
+          color: #4497D0;
+          margin-top: 25px;
+          margin-bottom: 10px; }
+      .loginmian .loginmian1 .loginmian2 .loginmian24 {
+        display: none;
+        padding: 30px;
+        font-size: 14px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian24 input[type="checkbox"] {
+          margin: 0 10px 0 20px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian24 .loginmian241 {
+          display: flex;
+          line-height: 40px;
+          border: 1px solid #D8D8D8;
+          margin-bottom: 20px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian24 .loginmian241 .loginmian24sapn1 {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #E6E6E6 url(../images/n_login18.png) no-repeat 10px 10px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian24 .loginmian241 .loginmian24sapn2 {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #E6E6E6 url(../images/n_login12.jpg) no-repeat 10px 10px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian24 .loginmian241 input {
+            height: 40px;
+            border: none;
+            width: 100%; }
+        .loginmian .loginmian1 .loginmian2 .loginmian24 .loginmian24but {
+          width: 100%;
+          line-height: 40px;
+          margin-top: 20px;
+          background: #FC6E06;
+          text-align: center;
+          font-size: 20px;
+          color: #fff;
+          border-radius: 10px;
+          cursor: pointer; }
+        .loginmian .loginmian1 .loginmian2 .loginmian24 a {
+          float: right;
+          color: #007FD0;
+          font-size: 14px;
+          margin: 15px 0px 20px 20px; }
+      .loginmian .loginmian1 .loginmian2 .loginmian25 {
+        display: none;
+        padding: 30px;
+        font-size: 14px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 input[type="checkbox"] {
+          margin: 0 10px 0 20px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian241, .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian242 {
+          display: flex;
+          line-height: 40px;
+          border: 1px solid #D8D8D8;
+          margin-bottom: 20px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian241 .loginmian24sapn1, .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian242 .loginmian24sapn1 {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #E6E6E6 url(../images/n_login17.png) no-repeat 10px 10px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian241 .loginmian24sapn2, .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian242 .loginmian24sapn2 {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: #E6E6E6 url(../images/n_login16.png) no-repeat 10px 10px; }
+          .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian241 input, .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian242 input {
+            height: 40px;
+            border: none;
+            width: 100%; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian242 {
+          width: 220px; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 b {
+          display: inline-block;
+          width: 100px;
+          float: right;
+          border: 1px solid #F49601;
+          color: #F49601;
+          line-height: 40px;
+          text-align: center;
+          cursor: pointer; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 .loginmian24but {
+          width: 100%;
+          line-height: 40px;
+          margin-top: 20px;
+          background: #FC6E06;
+          text-align: center;
+          font-size: 20px;
+          color: #fff;
+          border-radius: 10px;
+          cursor: pointer; }
+        .loginmian .loginmian1 .loginmian2 .loginmian25 a {
+          float: right;
+          color: #007FD0;
+          font-size: 14px;
+          margin: 15px 0px 20px 20px; }
