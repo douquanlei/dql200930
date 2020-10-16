@@ -2,6 +2,9 @@
 .ce {
   border: 1px solid #000; }
 
+button {
+  outline: none; }
+
 html, body {
   min-width: 1200px;
   font-family: Microsoft YaHei,微软雅黑,Arail;

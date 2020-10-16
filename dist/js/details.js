@@ -144,20 +144,20 @@ define(["jquery"], function($){
     })
     var tiaozhuan=document.querySelector(".maingoods1")
     tiaozhuan.onclick=function(){
-        window.location.href='../index.html'
+        window.location.href='./index.html'
     }
     var tiaozhuan=document.querySelector(".maingoods2")
     tiaozhuan.onclick=function(){
-        window.location.href='../list.html'
+        window.location.href='./list.html'
     }
     var tiaozhuan=document.querySelector(".maingoods3")
     tiaozhuan.onclick=function(){
-        window.location.href='../goodslist.html'
+        window.location.href='./goodslist.html'
     }
     
     $('.cart-icon').click(function(){
     console.log(111)
-    window.open('../settlement.html')
+    window.open('./settlement.html')
     })
     // // window.onload = function () {
     //     var oSmall = document.querySelector("#look-big-pic");

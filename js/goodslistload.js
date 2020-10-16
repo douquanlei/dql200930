@@ -3,7 +3,7 @@ define(["jquery","jquery-cookie"], function($){
     sc_num()
     var jishu=0;
     $.ajax({
-      url: "../json/goodslist.json",
+      url: "./json/goodslist.json",
       success: function(result){
         // console.log(result);
         var bigdata = result.bigdata;
@@ -14,7 +14,7 @@ define(["jquery","jquery-cookie"], function($){
           <tbody>
           <tr class="no-tj-tr add-cart-tr">
             <td class="one">
-              <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+              <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                 
                   
                     <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -29,7 +29,7 @@ define(["jquery","jquery-cookie"], function($){
             </td>
             <td class="two">
               <div class="two-tit">
-                <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                 ${bigdata[i].bigdataname}
                 </a>
                 <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">
@@ -348,7 +348,7 @@ define(["jquery","jquery-cookie"], function($){
             $("table").remove()
             console.log(jishu)
             $.ajax({
-            url: "../json/goodslist.json",
+            url: "./json/goodslist.json",
             success: function(result){
               // console.log(result);
               var bigdata = result.bigdata;
@@ -359,7 +359,7 @@ define(["jquery","jquery-cookie"], function($){
                 <tbody>
                 <tr class="no-tj-tr add-cart-tr">
                   <td class="one">
-                    <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+                    <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                       
                         
                           <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -374,7 +374,7 @@ define(["jquery","jquery-cookie"], function($){
                   </td>
                   <td class="two">
                     <div class="two-tit">
-                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                       ${bigdata[i].bigdataname}
                       </a>
                       <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">
@@ -695,7 +695,7 @@ define(["jquery","jquery-cookie"], function($){
             $("table").remove()
             console.log(jishu)
             $.ajax({
-            url: "../json/goodslist.json",
+            url: "./json/goodslist.json",
             success: function(result){
               // console.log(result);
               var bigdata = result.bigdata;
@@ -706,7 +706,7 @@ define(["jquery","jquery-cookie"], function($){
                 <tbody>
                 <tr class="no-tj-tr add-cart-tr">
                   <td class="one">
-                    <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+                    <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                       
                         
                           <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -721,7 +721,7 @@ define(["jquery","jquery-cookie"], function($){
                   </td>
                   <td class="two">
                     <div class="two-tit">
-                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                       ${bigdata[i].bigdataname}
                       </a>
                       <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">
@@ -1030,7 +1030,7 @@ define(["jquery","jquery-cookie"], function($){
             $("table").remove()
             console.log(jishu)
             $.ajax({
-            url: "../json/goodslist.json",
+            url: "./json/goodslist.json",
             success: function(result){
               // console.log(result);
               var bigdata = result.bigdata;
@@ -1041,7 +1041,7 @@ define(["jquery","jquery-cookie"], function($){
                 <tbody>
                 <tr class="no-tj-tr add-cart-tr">
                   <td class="one">
-                    <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+                    <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                       
                         
                           <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -1056,7 +1056,7 @@ define(["jquery","jquery-cookie"], function($){
                   </td>
                   <td class="two">
                     <div class="two-tit">
-                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                       ${bigdata[i].bigdataname}
                       </a>
                       <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">
@@ -1365,7 +1365,7 @@ define(["jquery","jquery-cookie"], function($){
             $("table").remove()
             console.log(jishu)
             $.ajax({
-            url: "../json/goodslist.json",
+            url: "./json/goodslist.json",
             success: function(result){
               // console.log(result);
               var bigdata = result.bigdata;
@@ -1376,7 +1376,7 @@ define(["jquery","jquery-cookie"], function($){
                 <tbody>
                 <tr class="no-tj-tr add-cart-tr">
                   <td class="one">
-                    <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+                    <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                       
                         
                           <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -1391,7 +1391,7 @@ define(["jquery","jquery-cookie"], function($){
                   </td>
                   <td class="two">
                     <div class="two-tit">
-                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                       ${bigdata[i].bigdataname}
                       </a>
                       <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">
@@ -1700,7 +1700,7 @@ define(["jquery","jquery-cookie"], function($){
             $("table").remove()
             console.log(jishu)
             $.ajax({
-            url: "../json/goodslist.json",
+            url: "./json/goodslist.json",
             success: function(result){
               // console.log(result);
               var bigdata = result.bigdata;
@@ -1711,7 +1711,7 @@ define(["jquery","jquery-cookie"], function($){
                 <tbody>
                 <tr class="no-tj-tr add-cart-tr">
                   <td class="one">
-                    <a class="one-to-item-link" href="../details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
+                    <a class="one-to-item-link" href="./details.html?product_id=${bigdata[i].bigdataid}"" target="_blank" onclick="toBuriedPoint(21904, this)">
                       
                         
                           <img class="is-hot-img" src="https://static.szlcsc.com/ecp/public/img/bk_icon.19e50291.png">
@@ -1726,7 +1726,7 @@ define(["jquery","jquery-cookie"], function($){
                   </td>
                   <td class="two">
                     <div class="two-tit">
-                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="../details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
+                      <a title="1KΩ ±1% " target="_blank" class="blue ellipsis" style="font-size: 20px; color: #007BFF; display: block; max-width: 200px; float: left;" href="./details.html?product_id=${bigdata[i].bigdataid}"" onclick="toBuriedPoint(21904, this)">
                       ${bigdata[i].bigdataname}
                       </a>
                       <a title="贴片电阻" target="_blank" class="catalog ellipsis" href="https://list.szlcsc.com/catalog/439.html">

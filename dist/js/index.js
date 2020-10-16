@@ -1,4 +1,19 @@
-define(["jquery"], function($){
+define(["jquery","jquery-cookie"], function($){
+    sc_num()
+    function sc_num(){
+        var cookieStr = $.cookie("goods");
+        var sum = 0;
+        if(cookieStr){
+          var cookieArr = JSON.parse(cookieStr);
+          for(var i = 0; i < cookieArr.length; i++){
+            sum += cookieArr[i].num;
+          }
+        }
+
+        $(".cart-icon2").html(sum);
+
+      }
+
 var oAdvertisingHeadSwitch=document.querySelector('.AdvertisingHeadSwitch')
 var oAdvertisingHead=document.querySelector('.AdvertisingHead')
 oAdvertisingHead.onmouseover=function(){

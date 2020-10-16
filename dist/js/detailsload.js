@@ -347,7 +347,7 @@ $(".product-top").on("click", "#addCartBtn-product", function(){
                       <!-- hasStockNow为no的话显示我要订货，param-click：存放“我要买”相关参数（通过|分隔） -->
   
   
-                      <button class="btn bg-orange" type="button" id="addCartBtn-product"
+                      <button  style="outline: none;" class="btn bg-orange" type="button" id="addCartBtn-product"
                         title="把&quot;100KΩ(1003) ±1% &quot;添加到购物车中" param-product-id="116568"
                         data-agl-cvt="15">加入购物车</button>
   
@@ -487,10 +487,13 @@ $(".product-top").on("click", "#addCartBtn-product", function(){
               $('#pic-zz img').attr("src",`${item.src}`)
           }
       })
+      
       //加购物车
       $(".main-content-wrap").on("click", ".bg-orange", function(){
         //拿到了点击按钮所在商品的id
+        
         var id = this.id;
+        $(this).css('outline','none')
         //适合用cookie进行本地缓存 <1>只能存储字符串  <2>cookie最大4kb
         //存储成json字符串，结构： [{id:id,num1},{id:id,num2}]
         //1、判断cookie是否存在

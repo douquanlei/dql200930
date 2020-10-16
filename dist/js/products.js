@@ -11,7 +11,7 @@ define(["jquery"], function($){
                 
               //JQ创建节点的函数，返回值就是这个节点
                 var node = $(`<li>
-                <img src="../images/catalog-570_0fcd070b.png" alt="">
+                <img src="./images/catalog-570_0fcd070b.png" alt="">
                 <div>
                   <div class="choicenesstab1">${recommendList[i].productName}</div>
                   <p>品牌：${recommendList[i].productGradePlateName}</p>
