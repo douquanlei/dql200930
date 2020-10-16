@@ -35,6 +35,11 @@ gulp.task("data", function(){
   .pipe(gulp.dest("./dist/json"))
   .pipe(connect.reload());
 })
+gulp.task("php", function(){
+  return gulp.src("php/*.php")
+  .pipe(gulp.dest("./dist/php"))
+  .pipe(connect.reload());
+})
 //处理css样式
 const sass = require("gulp-sass");
 sass.compiler = require('node-sass');
@@ -96,8 +101,17 @@ gulp.task("sassSettlement", function(){
   .pipe(gulp.dest("./dist/css"))
   .pipe(connect.reload());
 })
+gulp.task("sassLogin", function(){
+  return gulp.src("./scss/login.scss")
+  .pipe(sass().on('error', sass.logError))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(minifycss())
+  .pipe(rename("login.min.css"))
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(connect.reload());
+})
 
-gulp.task("build", ["sassSettlement","sassGoodslist","sassList","sassDetails","copy-html", "images", "scripts","data", "sassIndex", "sassBanner"]);
+gulp.task("build", ["sassLogin","sassSettlement","sassGoodslist","sassList","sassDetails","copy-html", "images", "scripts","data", "sassIndex", "sassBanner", "php"]);
 
 
 //编写监听
@@ -106,12 +120,14 @@ gulp.task("watch", function(){
   gulp.watch("img/*.{jpg,png,gif,svg}", ["images"]);
   gulp.watch(["js/*.js", "!gulpfile.js"], ['scripts']);
   gulp.watch(["json/*.json", "!package.json"], ['data']);
+  gulp.watch(["php/*.php"], ['php']);
   gulp.watch("./scss/index.scss", ["sassIndex"]);
   gulp.watch("./scss/banner.scss", ['sassBanner']);
   gulp.watch("./scss/list.scss", ['sassList']);
   gulp.watch("./scss/details.scss", ['sassDetails']);
   gulp.watch("./scss/goodslist.scss", ['sassGoodslist']);
   gulp.watch("./scss/settlement.scss", ['sassSettlement']);
+  gulp.watch("./scss/login.scss", ['sassLogin']);
 })
 
 

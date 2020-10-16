@@ -1,0 +1,113 @@
+body,html{
+    min-width: 1200px;
+    background: #FAFAFA;
+}
+.registerhead,.registerfoot{
+    width: 1200px;
+    margin: auto;
+    height: 100px;
+    line-height: 100px;
+    a{
+        float: right;
+        color: #6C6C83;
+    }
+    div{
+        font-size: 25px;
+        font-weight: 700;
+        color: #007FD0;
+    }
+    p{
+        color: #6C6C83;
+        font-size: 16px;
+        line-height: 18px;
+        margin-top: 10px;
+    }
+}
+.registerfoot{
+    padding-top: 20px;
+    text-align: center;
+}
+.registermian{
+    width: 100%;
+    background: #C7E7F6;
+    .registermian1{
+        width: 1200px;
+        margin:auto;
+        padding: 40px 0;
+        .registermian2{
+            background: #F9F9F9;
+            width: 1000px;
+            margin: auto;
+            border-radius: 10px;
+            
+            .registermianhead{
+                border-bottom: 5px solid #EFEFEF;
+                padding: 30px;
+                a{
+                    float: right;
+                    font-size: 14px;
+                    margin-right: 50px;
+                    font-weight: 700;
+                    color: #6F6F6F;
+                    span{
+                        color: #FF0000;
+                    }
+                }
+                p{
+                    font-size: 25px;
+                    color: #6F6F6F;
+                }
+            }
+            .registermianfoot{
+                border-top: 5px solid #EFEFEF;
+                color: #6F6F6F;
+                padding: 10px 0 30px 130px;
+                line-height: 23px;
+                font-size: 14px;
+            }
+            .registermian3{
+                line-height: 50px;
+                p{
+                    color: #FC8229;
+                    text-align: center;
+                    line-height: 50px;
+                    font-size: 14px;
+                    img{
+                        vertical-align: text-top;
+                        margin-right: 5px;;
+                    }
+                }
+                span{
+                    display: inline-block;
+                    text-align: right;
+                    width: 380px;
+                    color: #666666;
+                }
+                
+                input{
+                    height: 40px;
+                    border: 1px solid #D7D7D7;
+                    width: 340px;
+                    color: #908E89;
+                    padding-left: 10px;
+                }
+                div{
+                    width: 240px;
+                    margin:20px auto;
+                    background: #FC6E06;
+                    // E8E8E8
+                    font-size: 23px;
+                    color: #fff;
+                    text-align: center;
+                    border-radius: 5px;
+                }
+            }
+        }
+    }
+}
+.loginmian{
+    height: 530px;
+    min-width: 1200px;
+    background:#C7E7F6 url(../images/3_51lcsc.jpg) no-repeat center;
+    background-size: contain;;
+}
