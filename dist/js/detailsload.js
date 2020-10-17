@@ -370,7 +370,7 @@ $(".product-top").on("click", "#addCartBtn-product", function(){
                     <span class="c9a9a9a inline-block layout-left">品　　牌：</span>
                     <span class="fw-b inline-block brand-buried">
                       <a href="https://list.szlcsc.com/brand/63.html" title="FH(风华)" target="_blank">
-                        FH(风华)
+                      ${bigdata[product_id-1].Brand}
                       </a>
                     </span>
                   </div>
@@ -380,11 +380,11 @@ $(".product-top").on("click", "#addCartBtn-product", function(){
                   </div>
                   <div class="item">
                     <span class="c9a9a9a">商品编号：</span>
-                    <span>C115320</span>
+                    <span>${bigdata[product_id-1].Numbering}</span>
                   </div>
                   <div class="item">
                     <span class="c9a9a9a layout-left inline-block">封装规格：</span>
-                    <span class="layout-right inline-block" title="0603">0603</span>
+                    <span class="layout-right inline-block" title="0603">${bigdata[product_id-1].bigdataspecifications}</span>
                   </div>
                   <div class="item">
                     <span class="c9a9a9a">数据手册：</span>
