@@ -40,7 +40,7 @@ define(["jquery","jquery-cookie"], function($){
                 <ul class="l02-zb">
                   <li class="li-ellipsis">
                     <span class="c9a9a9a">规格：</span>
-                    <span title="0603">${bigdata[i].bigdataspecifications}</span>
+                    <span title="06033">${bigdata[i].bigdataspecifications}</span>
                   </li>
                   <li class="band li-ellipsis">
                     <span class="c9a9a9a">品牌：</span>
